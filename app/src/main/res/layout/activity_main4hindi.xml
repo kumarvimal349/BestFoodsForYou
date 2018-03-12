@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.vimal.me.a9bestfoodsforyou.Main4Activity">
+
+
+    <LinearLayout
+        android:layout_width="368dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="1.  अंडे"
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimary"
+            android:textAlignment="center"
+            android:layout_marginLeft="10dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="0.98"
+            android:text="अंडे अंतिम स्वास्थ्य भोजन हैं, क्योंकि उनमें लगभग हर पोषक तत्व की आवश्यकता होती है।
+एक बड़े अंडा में 77 कैलोरी होते हैं, साथ ही साथ उच्च गुणवत्ता वाला प्रोटीन और वसा भी होता है। इसमें कई विटामिन और खनिज भी शामिल हैं
+अंडा कोलोन का एक बड़ा स्रोत है शरीर में कई प्रक्रियाओं के लिए, मस्तिष्क के विकास और स्वास्थ्य सहित, चोलिन आवश्यक है।
+अमेरिका में एक आहार सर्वेक्षण से पता चला है कि 90% से ज्यादा लोगों को क्रोन की सिफारिश की मात्रा से कम खपत होती है।
+गर्भावस्था के दौरान कम क्लोलीन का सेवन, न्यूरल ट्यूब दोषों के जोखिम को बढ़ा सकता है और संभावित मस्तिष्क समारोह में कमी कर सकता है।
+एक संपूर्ण अंडे में लगभग 113 मिलीग्राम का कोलीन होता है, जो गर्भवती महिलाओं (450 मिलीग्राम) के लिए सुझाए गए दैनिक सेवन का लगभग 25% है। "
+            android:textSize="25sp"/>
+
+
+        <ImageView
+            android:id="@+id/imageView8"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_weight="1"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/img19"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="2.हरी चाय"
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimary"
+            android:textAlignment="center"
+            android:layout_marginLeft="50dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="5dp"
+
+            android:textSize="20sp"
+            android:text="चाय, यह चमकदार या गर्म है, एंटीऑक्सीडेंट यौगिकों के विस्फोट को बचाता है। अध्ययनों से पता चलता है कि चाय रक्त वाहिकाओं को आराम से रखने और रक्त के थक्कों को रोकने में मदद करती है। चाय में प्रमुख एंटीऑक्सीडेंट, एलडीएल कोलेस्ट्रॉल के ऑक्सीकरण को रोकने के लिए दिखाया गया है धमनी की दीवारों पर पट्टिका के गठन की ओर जाता है। ये शक्तिशाली एंटीऑक्सीडेंट भी कोलेस्ट्रॉल और कम रक्तचाप को भी कम कर सकते हैं। गर्म चाय का एक कप वास्तव में किसी भी फल या वनस्पति की सेवा से अधिक एंटीऑक्सीडेंट होता है। हरी और काली चाय दोनों में उच्च एंटीऑक्सीडेंट का स्तर होता है। हर दिन कम से कम एक कप चाय। ​​" />
+
+        <ImageView
+            android:id="@+id/imageView9"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/tea" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="3.शराब "
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimary"
+            android:textAlignment="center"
+            android:layout_marginLeft="50dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:textSize="20sp"
+            android:text="अंगूर की त्वचा में resveratrol होता है जो एक प्रसिद्ध एंटीऑक्सिडेंट है जो वसा का भंडारण रोकता है।
+             एक गिलास शराब भी आपके चयापचय दर को 90 मिनट तक बढ़ा सकती है।एक नया स्पैनिश अध्ययन बताता है कि मेर्लोट के 9 औंस या कम शराबी रेड वाइन को बदलना
+             अच्छे और बुरे जीवाणुओं का मिश्रण आम तौर पर बृहदान्त्र में पाया जाता है जो आपके स्वास्थ्य को लाभान्वित कर सकते हैं।
+              इन जीवाणुओं के एक संतुलित संयोजन से भोजन को बेहतर और अधिक कुशलतापूर्वक पचाने में मदद मिलती है "/>
+
+        <ImageView
+            android:id="@+id/imageView10"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/wine" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="4.दालचीनी "
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimary"
+            android:textAlignment="center"
+            android:layout_marginLeft="50dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:textSize="20sp"
+            android:text=" दालचीनी के सबसे प्रभावशाली स्वास्थ्य लाभों में से एक में रक्त शर्करा नियंत्रण को बेहतर बनाने की क्षमता है। उदाहरण के लिए, प्रति दिन दालचीनी का सिर्फ एक आधा चम्मच पहले रक्त शर्करा के स्तर, ट्राइग्लिसराइड्स, एलडीएल (खराब) कोलेस्ट्रॉल और टाइप 2 मधुमेह वाले लोगों में कुल कोलेस्ट्रॉल के स्तर को काफी कम करने के लिए दिखाया गया है।
+जितना अधिक आप पोषण और व्यायाम जैसे प्राकृतिक चिकित्सा का उपयोग कर सकते हैं, उतना ही बेहतर होगा कि आपका स्वास्थ्य बेहतर होगा। हालांकि, दालचीनी जैसी खुराक के रूप में उपयोगी हो सकते हैं, उन्हें उपचार के रूप में गलत तरीके से नहीं समझा जाना चाहिए। वे उचित आहार और जीवन शैली विकल्पों के लिए विकल्प नहीं हैं आप अपनी मधुमेह को ठीक तरह से नहीं संबोधित कर सकते हैं यदि आप अभी भी एक स्थिर जीवन शैली और गरीब आहार विकल्पों को बनाए रखते हैं - दालचीनी पूरक या नहीं! "/>
+
+        <ImageView
+            android:id="@+id/imageView11"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/img14" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:text="5.अंगूर फल "
+            android:textColor="@color/colorPrimary"
+            android:textAlignment="center"
+            android:layout_marginLeft="50dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:textSize="20sp"
+            android:text="मीठे, रसदार और स्वादिष्ट, रूबी लाल अंगूर अधिक एंटीऑक्सीडेंट शक्ति और संभवतः सफेद अंगूर की तुलना में अधिक हृदय लाभ पैक। हृदय रोग के साथ 57 लोगों की प्रारंभिक 30-दिवसीय परीक्षा में, जो एक लाल अंगूर खाने वाले रोजाना अपने एलडीएल (खराब) कोलेस्ट्रॉल को 20 प्रतिशत कम करते हैं और ट्राइग्लिसराइड्स 17 प्रतिशत कम कर देते हैं। इसके विपरीत, सफेद अंगूर खाने वाले लोग 10% से एलडीएल कम कर देते हैं, ट्राइग्लिसराइड्स में कोई महत्वपूर्ण बदलाव नहीं होता है, जो उस फल के खाने वाले लोगों के समूह के मुकाबले नहीं थे। एक रस के रूप में, सलाद में, या स्वयं के द्वारा विटामिन सी-समृद्ध अंगूर को शामिल करें शरीर को विटामिन सी मिल सकता है एकमात्र तरीका भोजन के माध्यम से है, जैसे खट्टे फल, या पूरक " />
+
+
+        <ImageView
+            android:id="@+id/imageView12"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/grapefruit" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:text="6.कॉफ़ी"
+            android:textColor="@color/colorPrimary"
+            android:textAlignment="center"
+            android:layout_marginLeft="50dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="दो कप कॉफी पोस्ट-कसरत की मांसपेशियों में दर्द को 48% तक कटौती कर सकती है।
+पीसा कॉफी का एक कप 20-38 ग्राम की सिफारिश की मात्रा में 1.8 ग्राम फाइबर का योगदान दर्शाता है।
+जो लोग प्रतिदिन 6 या अधिक कप का सेवन करते थे, उनमें मधुमेह का 22% जोखिम कम था। आंतरिक चिकित्सा (लिंक) के अभिलेखागार से हार्वर्ड के डॉ। फ्रैंक हू द्वारा किए गए शोध की एक हालिया समीक्षा में पता चला है कि टाइप II मधुमेह का खतरा खपत की जाने वाली कॉफी के प्रत्येक दैनिक कप के लिए 9% घट जाती है। डिकैफ़ कॉफी में प्रति कप 6% तक जोखिम कम हुआ।
+86,000 महिला नर्सों के 10 साल के एक अध्ययन में कॉफी पीने वालों में आत्महत्या का खतरा कम है। आंतरिक चिकित्सा (लिंक) के अभिलेखागार से हार्वर्ड स्कूल ऑफ पब्लिक हेल्थ द्वारा किए गए एक अन्य अध्ययन में पाया गया कि जिन महिलाओं को 4 या अधिक कप कॉफी पीते हैं वे 20% कम अवसाद से पीड़ित हो सकते हैं "/>
+
+        <ImageView
+            android:id="@+id/imageView13"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/coffee" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="7.काले सेम"
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimary"
+            android:textAlignment="center"
+            android:layout_marginLeft="50dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:text="
+ब्लैक बीन्स किसी के लिए एक स्वस्थ विकल्प हैं-वे वसा में कम हैं, और प्रोटीन और विविध विटामिन और खनिजों की पेशकश करते हैं लेकिन उनके पास मधुमेह वाले लोगों के लिए अतिरिक्त लाभ हो सकते हैं क्योंकि वे घुलनशील फाइबर में उच्च हैं। बीन्स इनसुलिन दवाओं की आपकी ज़रूरतों को कम कर सकते हैं फाइबर के स्वास्थ्य लाभ पर प्रारंभिक शोध अग्रदूतों में से एक, डॉ। जेम्स एंडरसन ने पाया कि टाइप 1 मधुमेह वाले लोग केवल बीन्स खाने से इंसुलिन की उनकी जरूरत को 38% कम करने में सक्षम थे। और टाइप 2 मधुमेह वाले लोगों के लिए, बीन्स खाने से इंसुलिन और अन्य मधुमेह दवाओं की उनकी ज़रूरत को कम ही नहीं हो पाया, परन्तु कुछ मामलों में, पूरक इंसुलिन की आवश्यकता को समाप्त कर दिया था।"/>
+
+        <ImageView
+            android:id="@+id/imageView14"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/blackbean" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:text="8.सेब "
+            android:textColor="@color/colorPrimary"
+            android:textAlignment="center"
+            android:layout_marginLeft="50dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:text="
+सेब बहुत महत्वपूर्ण एंटीऑक्सिडेंट, फ्लैनोनोड्स, और आहार फाइबर में बहुत समृद्ध हैं। सेब में फ़िएंटियोटेंट्स और एंटीऑक्सीडेंट कैंसर, उच्च रक्तचाप, मधुमेह और हृदय रोग के विकास के जोखिम को कम करने में मदद कर सकते हैं।
+        सेब को पौष्टिक बिजलीघर कहा जाता है। इनमें निम्न महत्वपूर्ण पोषक तत्व होते हैं:
+        विटामिन सी - एक शक्तिशाली प्राकृतिक एंटीऑक्सीडेंट जो फ्री कणों के कारण होने वाले कुछ नुकसान को रोकने में सक्षम है, साथ ही मैरीलैंड मेडिकल सेंटर यूनिवर्सिटी के अनुसार, संक्रामक एजेंटों के खिलाफ शरीर के प्रतिरोध को बढ़ाने में भी सक्षम है।
+        बी-कॉम्प्लेक्स विटामिन (रिबोफ्लैविविन, थियामीन, और विटामिन बी -6) - ये विटामिन लाल रक्त कोशिकाओं को बनाए रखने और तंत्रिका तंत्र को अच्छे स्वास्थ्य में बनाए रखने में महत्वपूर्ण हैं। "/>
+        <ImageView
+            android:id="@+id/imageView24"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/img4" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="9.ब्रोकोली "
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimary"
+            android:textAlignment="center"
+            android:layout_marginLeft="50dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text=" ब्रोकोली खाने से मधुमेह के कारण दिल के रक्त वाहिकाओं को नुकसान पहुंचा सकता है, अनुसंधान से पता चलता है वॉर्विक टीम के एक विश्वविद्यालय का मानना ​​है कि चावल एक सब्जी में पाया जाता है, जिसे सल्फोराफेन कहा जाता है। यह एंजाइमों के उत्पादन को प्रोत्साहित करता है जो रक्त वाहिकाओं की रक्षा करते हैं, और उच्च स्तर के अणुओं में कमी जिससे महत्वपूर्ण सेल क्षति होती है। जर्नल डायबिटीज के जर्नल टीम में काम करने वाले वॉरविक टीम ने उच्च ग्लूकोज के स्तर (हाइपरग्लेसीमिया) से क्षतिग्रस्त रक्त वाहिका कोशिकाओं पर सल्फोराफेन के प्रभाव का परीक्षण किया, जो मधुमेह से जुड़े हैं। उन्होंने रिएक्टिव ऑक्सीजन प्रजाति (आरओएस) नामक शरीर में अणुओं में 73% की कमी दर्ज की। "/>
+        <ImageView
+            android:id="@+id/imageView25"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/img16" />
+
+    </LinearLayout>
+
+
+</ScrollView>
+

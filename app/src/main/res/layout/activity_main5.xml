@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.vimal.me.a9bestfoodsforyou.Main5Activity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:text="1. BLUE-BERRIES "
+            android:textAlignment="center"
+            android:textColor="@color/colorAccent"
+            android:layout_marginLeft="10dp"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_weight="1"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text=" Blueberries are, like green tea and red wine, extremely rich in anti-oxidants, which target the free radical that are destroying the skin cells. The skin will look younger for longer if DNA-damaging free radicals are neutralized by the anti-oxidants and phytochemicals found in blueberries. They are also an excellent source of fiber, vitamins C/E, manganese, and riboflavin.
+"
+            android:textSize="25sp" />
+
+
+        <ImageView
+            android:id="@+id/imageView44"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/img7" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="2. OYSTERS"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textColor="@color/colorAccent"
+            android:layout_marginLeft="10dp"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_weight="1"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text=" Oysters are your skins best friend. They are loaded with zinc which is known for preventing many skin ailments such as acne, scalp conditions, boils, ulcers and diaper rashes. Zinc is a mineral with big “beauty” benefits because it renews and repairs the skin. It also helps to create collagen, which provides the structural support in skin. It helps in enhancing immunity as well."
+            android:textSize="25sp" />
+
+        <ImageView
+            android:id="@+id/imageView45"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/oyster" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="3. TOMATOES"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textColor="@color/colorAccent"
+            android:layout_marginLeft="10dp"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:text=" Tomato has an antioxidant called lycopene which helps to protect your skin from UV damage from sunburn. In western diet, about 85% of lycopene is obtained only from tomatoes, and the best place to find them in the tomato paste. A study was made on 23 women, who were asked to eat 55g of tomato every day, for 12 weeks (giving them 16mg of lycopene). After getting them back to lab, it was revealed, that a 30% increase in natural skin protection was detected."
+            android:textSize="25sp" />
+
+        <ImageView
+            android:id="@+id/imageView46"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/img8" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="4.KIWIS"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+            android:layout_marginLeft="10dp"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_weight="1"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="Kiwis contain large amounts of water-soluble vitamin C, which is needed to produce collagen. This is a “connective” type of protein which helps to firm your skin. With aging, production of collagen decreases and the skin loses its elasticity. Kiwis are also full of vitamins C and E, which not only fight free radicals, but also help to repair and heal the skin. That’s why you can see many skin care products with kiwi extracts in them."
+            android:textSize="25sp" />
+
+        <ImageView
+            android:id="@+id/imageView47"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/img9" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="5. CHOCOLATE"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+            android:layout_marginLeft="10dp"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:text="  chocolate is full of flavonoids which protect the skin from UV rays. German researchers gave 24 women a half-cup of special extra-flavonoid-enriched cocoa every day, and after 3 months, the women’s skin was moister, smoother and less scaly, when exposed to UV light."
+            android:textSize="25sp" />
+
+        <ImageView
+            android:id="@+id/imageView48"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/img10" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="6. SWEET POTATOES"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+            android:layout_marginLeft="10dp"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:text="Snacking on sweet potatoes can keep your skin clear, smooth and young-looking. Orange-fleshed sweet potatoes are rich in beta-carotene, an antioxidant that coverts to vitamin A in your body, which is in charge at producing new skin cells and shedding old ones. A regular influx of new cells keeps the surface of your skin smooth, fresh-looking and resistant to irritants and damage. It’s no coincidence that some of the best topical healthy-skin ingredients in beauty products, retinoic acid and retinol, are derivatives of vitamin A."
+            android:textSize="25sp" />
+
+        <ImageView
+            android:id="@+id/imageView49"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/sweetpotato" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="7. STRAWBERRIES"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+            android:layout_marginLeft="10dp"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_weight="1"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="  Strawberries are one of the World’s healthiest foods. Just one cup has over 100 percent of the Recommended Daily Allowance (RDA) for Vitamin C, 20 percent RDA for manganese and nearly 15 percent RDA for fiber. In other words, strawberries are rich in nutrients that our skin loves to dine on. With a high content of alpha-hydroxy acids, strawberries help slough off dead skin cells, increasing natural skin renewal by revealing the new youthful skin underneath. Strawberries also contain ellagic acid, which helps protect the skin from UV rays."
+            android:textSize="25sp" />
+
+        <ImageView
+            android:id="@+id/imageView50"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/img11" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="8.SUNFLOWER SEEDS"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textColor="@color/colorAccent"
+            android:layout_marginLeft="10dp"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:text="  Sunflower seeds will make your skin glow. Eating raw sunflower seeds can give you a powerful punch of many vitamins and minerals. Vitamins and minerals found in these amazing little seeds are; magnesium, zinc, phosphorus, potassium, iron, calcium, copper, vitamins B1, B2, B6, A, E, K, C and fiber. Vitamin E, in particular, is a very powerful vitamin, needed to help fight the aging process. They are also rich in omega-6 essential fatty acids.
+"
+            android:textSize="25sp" />
+
+        <ImageView
+            android:id="@+id/imageView51"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/sunflower" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:text="9. SPINACH"
+            android:textAlignment="center"
+            android:textColor="@color/colorAccent"
+            android:layout_marginLeft="10dp"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:text="Spinach contains various nutrients that are good for your skin. The most useful vitamins of spinach are vitamin A, C, E, and K. The high amount of vitamin A in spinach also promotes healthy skin by allowing for proper moisture retention in the epidermis, thus fighting psoriasis, keratinization, acne and even wrinkles. A study published in the International Journal of Cancer found that folks who ate the most spinach developed half as many skin tumors over 11 years as those who ate the smallest amount. That’s likely because the folate in spinach helps maintain and repair DNA, reducing the likelihood of cancer-cell growth."
+            android:textSize="25sp" />
+
+        <ImageView
+            android:id="@+id/imageView52"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/img12" />
+
+
+    </LinearLayout>
+
+</ScrollView>

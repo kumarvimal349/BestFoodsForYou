@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.vimal.me.a9bestfoodsforyou.Main8Activity"
+    android:background="@drawable/img5">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <Button
+        android:id="@+id/btnh"
+        android:layout_width="match_parent"
+        android:layout_marginTop="300dp"
+        android:layout_height="100dp"
+        android:text="HINDI"
+        android:textSize="60sp"
+        android:textStyle="bold"
+        android:background="@drawable/img5"
+        />
+
+    <Button
+        android:id="@+id/btne"
+        android:layout_width="match_parent"
+        android:layout_marginTop="80dp"
+        android:layout_height="100dp"
+        android:text="ENGLISH"
+        android:textSize="60sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="301dp"
+        android:background="@drawable/img5"/>
+
+        <TextView
+            android:layout_width="150dp"
+            android:layout_marginLeft="170dp"
+            android:layout_height="50dp"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:text="Om साई Ram"
+            android:layout_marginTop="470dp"
+            android:layout_alignParentEnd="true" />
+
+        <com.google.android.gms.ads.AdView
+            android:id="@+id/adView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            ads:adSize="BANNER"
+            ads:adUnitId="@string/banner_id"
+            android:layout_below="@+id/btnh"
+            android:layout_centerHorizontal="true">
+        </com.google.android.gms.ads.AdView>
+
+    </RelativeLayout>
+
+</ScrollView>

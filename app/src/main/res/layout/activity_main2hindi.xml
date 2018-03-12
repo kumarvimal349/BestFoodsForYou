@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.vimal.me.a9bestfoodsforyou.Main2Activity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textColor="@color/colorAccent"
+            android:layout_marginLeft="10dp"
+            android:textSize="40sp"
+            android:text=" 1.चॉकलेट "/>
+
+
+
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:text="चॉकलेट पोषक तत्वों से भरी हुई है जो आपके स्वास्थ्य को सकारात्मक रूप से प्रभावित कर सकता है।
+कोको पेड़ के बीज से बनाया गया, यह ग्रह पर एंटीऑक्सिडेंट का सबसे अच्छा स्रोत है। अभ्यास बताते हैं कि डार्क चॉकलेट (शक्कर नहीं बकवास) स्वास्थ्य में सुधार कर सकता है और हृदय रोग के जोखिम को कम कर सकता है। यदि आप गुणवत्ता डार्क चॉकलेट खरीदते हैं एक उच्च कोको सामग्री के साथ, यह वास्तव में काफी पौष्टिक है। इसमें घुलनशील फाइबर की एक सभ्य मात्रा होती है और खनिजों से भरी होती है। 70-85% कोको के साथ एक 100 ग्राम अंधेरे चॉकलेट में शामिल होता है:
+
+ 11% ग्राम फाइबर
+आयरन के लिए आरडीए का 67%
+मैग्नीशियम के लिए आरडीए का 58%
+कॉपर के लिए आरडीए का 89%
+मैंगनीज के लिए आरडीए का 98%
+डार्क चॉकलेट में फ्लैनोल्स नाइट्रिक ऑक्साइड (ना) का निर्माण करने के लिए एंडोटेक्लियम, धमनियों की परत को उत्तेजित कर सकते हैं, जो गैस है।
+NO के कार्यों में से एक को धमनियों को आराम देने के लिए सिग्नल भेजना है, जो रक्त प्रवाह के प्रतिरोध को कम करता है और इसलिए रक्तचाप कम करता है।
+ऐसे कई नियंत्रित परीक्षण हैं जो दिखाते हैं कि कोको और डार्क चॉकलेट रक्त के प्रवाह में सुधार और रक्तचाप को कम कर सकते हैं, लेकिन प्रभाव आमतौर पर हल्के होते हैं।
+हालांकि, ऊपरी रक्तचाप वाले लोगों में एक अध्ययन भी है, जो किसी भी प्रभाव से नहीं दिखा, इसलिए नमक के एक अनाज के साथ यह सब लें।
+ "
+            android:textSize="25sp" />
+
+
+        <ImageView
+            android:id="@+id/imageView7"
+            android:layout_width="match_parent"
+            android:scaleType="fitXY"
+            android:layout_height="200dp"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/img10" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:text="   2. दूध"
+            android:textColor="@color/colorAccent"
+            android:textAlignment="center"
+            android:layout_marginLeft="50dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:textSize="20sp"
+            android:text="
+दूध के साथ गर्भवती महिला का दूध
+गर्भावस्था के दौरान, बढ़ते भ्रूण की जरूरतों को पूरा करने के लिए आपको अतिरिक्त प्रोटीन और कैल्शियम का उपभोग करने की आवश्यकता होती है।
+डेयरी उत्पादों में दो प्रकार की उच्च गुणवत्ता वाले प्रोटीन होते हैं: कैसिइन और मट्ठा। डेयरी कैल्शियम का सबसे अच्छा आहार स्रोत है, और उच्च मात्रा में फास्फोरस, विभिन्न बी-विटामिन, मैग्नीशियम और जस्ता प्रदान करता है।
+दही, विशेष रूप से ग्रीक दही, विशेष रूप से गर्भवती महिलाओं के लिए फायदेमंद है
+इसमें किसी अन्य डेयरी उत्पाद की तुलना में अधिक कैल्शियम होता है। कुछ किस्मों में प्रोबायोटिक बैक्टीरिया भी होते हैं, जो पाचन स्वास्थ्य का समर्थन करते हैं।
+जो लोग लैक्टोज असहिष्णु हैं वे दही, विशेष रूप से प्रोबायोटिक दही को सहन कर सकते हैं।
+गर्भावस्था के दौरान प्रोबायोटिक खुराक लेने से प्रीक्लम्पसिया, गर्भावधि मधुमेह, योनि संक्रमण और एलर्जी जैसे जटिलताओं के जोखिम को कम हो सकता है।
+"/>
+
+
+        <ImageView
+            android:id="@+id/imageView8"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/images" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="3. फलियां"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+            android:textAlignment="center"
+            android:layout_marginLeft="50dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:text="भोजन के इस समूह में दाल, मटर, सेम, चना, सोयाबीन और मूंगफली शामिल हैं
+फलियां फाइबर, प्रोटीन, लोहा, फोलेट (बी 9) और कैल्शियम के उत्कृष्ट पौधे-आधारित स्रोत हैं, जिनके सभी के लिए गर्भावस्था के दौरान शरीर की अधिक आवश्यकता होती है।
+फोलेट बी-विटामिन (बी 9) में से एक है। माता और भ्रूण के स्वास्थ्य के लिए यह विशेष रूप से पहले त्रैमासिक के दौरान बहुत महत्वपूर्ण है।
+हालांकि, ज्यादातर गर्भवती महिला लगभग पर्याप्त फॉलेट नहीं ले रहे हैं
+यह न्यूरल ट्यूब दोषों और कम जन्म के वजन के बढ़ते जोखिम से जुड़ा हुआ है। अपर्याप्त फोलेट सेवन के कारण बच्चे को बाद में जीवन में संक्रमण और बीमारी का खतरा अधिक हो सकता है।
+पौधों में फोलेट की उच्च मात्रा होती है एक कप दाल, चना या काली बीन्स आरडीए के 65-90% से मिल सकती है।
+इसके अलावा, फलियां आमतौर पर फाइबर में बहुत अधिक होती हैं। कुछ किस्मों में भी लोहे, मैग्नीशियम और पोटेशियम में उच्च है।
+" />
+
+
+        <ImageView
+            android:id="@+id/imageView9"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/legumes" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="4. मीठे आलू"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+            android:textAlignment="center"
+            android:layout_marginLeft="50dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text=" मीठे आलू पर स्नैकिंग आपकी त्वचा को साफ, चिकनी और युवा दिखने में रख सकता है। ऑरेंज-फ्लेशेड मिठाई आलू बीटा-कैरोटीन में समृद्ध है, एक एंटीऑक्सिडेंट जो आपके शरीर में विटामिन ए को कवर करता है, जो कि नए त्वचा कोशिकाओं के निर्माण और बूढ़े लोगों को बहाए जाने के लिए प्रभार में है। नए कोशिकाओं का एक नियमित बाढ़ आपकी त्वचा की सतह चिकनी, ताजा दिखने और परेशानी और क्षति के प्रतिरोधी रखता है। यह कोई संयोग नहीं है कि सुंदरता उत्पादों, रेटिनोइक एसिड और रेटिनोल में सर्वोत्तम सामयिक स्वस्थ त्वचा सामग्री में से कुछ, विटामिन ए के डेरिवेटिव हैं।
+" />
+
+
+        <ImageView
+            android:id="@+id/imageView10"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/sweetpotato" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="5. अंडे"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+            android:textAlignment="center"
+            android:layout_marginLeft="50dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="
+अंडे अंतिम स्वास्थ्य भोजन हैं, क्योंकि उनमें लगभग हर पोषक तत्व की आवश्यकता होती है।
+एक बड़े अंडा में 77 कैलोरी होते हैं, साथ ही साथ उच्च गुणवत्ता वाला प्रोटीन और वसा भी होता है। इसमें कई विटामिन और खनिज भी शामिल हैं
+अंडा कोलोन का एक बड़ा स्रोत है शरीर में कई प्रक्रियाओं के लिए, मस्तिष्क के विकास और स्वास्थ्य सहित, चोलिन आवश्यक है।
+अमेरिका में एक आहार सर्वेक्षण से पता चला है कि 90% से ज्यादा लोगों को क्रोन की सिफारिश की मात्रा से कम खपत होती है।
+गर्भावस्था के दौरान कम क्लोलीन का सेवन, न्यूरल ट्यूब दोषों के जोखिम को बढ़ा सकता है और संभावित मस्तिष्क समारोह में कमी कर सकता है।
+एक संपूर्ण अंडे में लगभग 113 मिलीग्राम का कोलीन होता है, जो गर्भवती महिलाओं (450 मिलीग्राम) के लिए सुझाए गए दैनिक सेवन का लगभग 25% है।
+
+" />
+
+
+        <ImageView
+            android:id="@+id/imageView12"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/img19" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="6.ब्रोकोली"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+            android:textAlignment="center"
+            android:layout_marginLeft="50dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="
+ब्रोकोली और अंधेरे, हरे सब्जियां, जैसे कि काले और पालक, में कई पोषक तत्व होते हैं जिनमें गर्भवती महिलाओं की आवश्यकता होती है। इनमें फाइबर, विटामिन सी, विटामिन के, विटामिन ए, कैल्शियम, लोहा, फोलेट और पोटेशियम शामिल हैं। इसके अलावा, ब्रोकोली और पत्तेदार साग एंटीऑक्सिडेंट्स में समृद्ध हैं इसमें पौधों के यौगिक भी होते हैं जो प्रतिरक्षा प्रणाली और पाचन लाभ लेते हैं।
+उनकी उच्च फाइबर सामग्री के कारण, इन सब्जियां भी कब्ज को रोकने में मदद कर सकती हैं। यह गर्भवती महिलाओं के बीच एक बहुत ही आम समस्या है। हरा, पत्तेदार सब्जियों को भी कम जन्म के वजन के कम जोखिम से जोड़ा गया है।
+" />
+
+
+        <ImageView
+            android:id="@+id/imageView11"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_weight="1"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/img16" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="8.
+दुबला मांस"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+            android:textAlignment="center"
+            android:layout_marginLeft="50dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:textSize="20sp"
+            android:text="
+बीफ़, पोर्क और चिकन उच्च गुणवत्ता वाली प्रोटीन का उत्कृष्ट स्रोत हैं
+इसके अलावा, बीफ़ और पोर्क भी लोहे, कोलिन और अन्य बी-विटामिनों में समृद्ध हैं - जो सभी गर्भावस्था के दौरान उच्च मात्रा में आवश्यक हैं।
+लोहे एक आवश्यक खनिज है जो हेमोग्लोबिन के एक भाग के रूप में लाल रक्त कोशिकाओं द्वारा उपयोग किया जाता है। शरीर में सभी कोशिकाओं को ऑक्सीजन देने के लिए यह महत्वपूर्ण है
+गर्भवती महिलाओं को अधिक लोहे की जरूरत होती है, क्योंकि उनके रक्त की मात्रा बढ़ रही है। यह तीसरे तिमाही के दौरान विशेष रूप से महत्वपूर्ण है।
+प्रारंभिक और मध्य-गर्भावस्था के दौरान लोहे का निम्न स्तर लोहे की कमी के एनीमिया का कारण बन सकता है, जो समय से पहले डिलीवरी और कम जन्म के वजन (45) के जोखिम को दोगुना करता है।
+अकेले आहार के साथ लोहे की जरूरतों को कवर करना मुश्किल हो सकता है, खासकर जब से कई गर्भवती महिलाओं को मांस के प्रति घृणा उत्पन्न होती है
+हालांकि, जो नियमित रूप से लाल मांस खा सकते हैं, उनके लिए आहार से प्राप्त लोहे की मात्रा में वृद्धि करने में मदद मिल सकती है।
+खाद्य पदार्थ जो विटामिन सी में समृद्ध होता है, जैसे संतरे या घंटी मिर्च, भोजन से लोहे का अवशोषण बढ़ाने में मदद कर सकते हैं।
+" />
+
+
+        <ImageView
+            android:id="@+id/imageView13"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_weight="1"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/img3" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="1"
+            android:text="9. साबुत अनाज"
+            android:textAlignment="center"
+            android:textColor="@color/colorAccent"
+            android:textSize="40sp"
+            android:textStyle="bold"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:textSize="20sp"
+            android:text="पूरे अनाज की खातिर गर्भावस्था के साथ आने वाली वृद्धि की कैलोरी आवश्यकताओं को पूरा करने में मदद मिल सकती है, खासकर दूसरे और तीसरे trimesters के दौरान।
+रिफाइंड अनाज के विपरीत, साबुत अनाज फाइबर, विटामिन और पौध यौगिकों के साथ पैक किया जाता है।
+ओट्स और क्विनॉआ में एक उचित मात्रा में प्रोटीन होता है, जो गर्भावस्था के दौरान महत्वपूर्ण होता है।
+इसके अतिरिक्त, आम तौर पर पूरे अनाज बी-विटामिन, फाइबर और मैग्नीशियम में समृद्ध होते हैं। इन सभी को अक्सर गर्भवती महिलाओं के आहार में कमी होती है
+" />
+
+
+        <ImageView
+            android:id="@+id/imageView14"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/wholegrain" />
+
+
+
+    </LinearLayout>
+</ScrollView>
+
+
+
+

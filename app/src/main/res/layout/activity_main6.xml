@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.vimal.me.a9bestfoodsforyou.Main6Activity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:text="1.OATMEAL"
+            android:textAlignment="center"
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_marginLeft="10dp"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:text="
+Oatmeal oat bran and high-fiber foods: Over the years, there have been many research studies that have proven the benefits of oatmeal in lowering cholesterol levels. The U.S. Food and Drug Administration is convinced, too: Oatmeal was one of the first foods to carry the heart healthy distinction on its label because of promising research findings. Oatmeal seems to be most effective in lowering LDL cholesterol (“bad” cholesterol) levels. According to the studies in adults, LDL cholesterol may be lowered by 10 percent in some cases. In these studies, anywhere between 40 and 60 grams — or roughly one bowl — of oatmeal was consumed by each subject per day. The cholesterol lowering benefits of oatmeal is also dose-dependent. That is, the more oatmeal you eat, the lower your cholesterol will go."
+            android:textSize="25sp" />
+
+
+        <ImageView
+            android:id="@+id/imageView26"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/oatmeal" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="2. OLIVE OIL"
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimaryDark"
+            android:textAlignment="center"
+            android:layout_marginLeft="50dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text=" Olive oil has long been popular for both cooking and seasoning in Mediterranean countries. These days, however, it’s being rediscovered in America. The low frequency of heart disease among those living in Mediterranean countries, despite lifestyles similar to more industrialized nations, has made us look more closely at their diets.The heavy use of olive oil by people living in that part of the world is the source of the high level of monounsaturated fat in their diets. Olive oil is rich in oleic acid, the most common monounsaturated fatty acid found in the diet. Numerous studies indicate that monounsaturated fat is about as effective as polyunsaturated fat in lowering total blood cholesterol and LDL cholesterol, when substituted for saturated fat in the diet. Plus, monounsaturated fat does not lower beneficial HDL cholesterol or raise triglycerides, unlike polyunsaturated fat, which, at high intakes, may lower HDL cholesterol.The Food and Drug Administration allows manufacturers of olive oil to claim that “limited but not conclusive evidence suggests that eating about two tablespoons of olive oil daily may reduce the risk of coronary heart disease due to the monounsaturated fat in olive oil." />
+
+
+        <ImageView
+            android:id="@+id/imageView27"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/img13" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="3. SOYABEANS"
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimaryDark"
+            android:textAlignment="center"
+            android:layout_marginLeft="50dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="Reducing saturated fat is the single most important dietary change you can make to cut blood cholesterol. Used as a replacement for meat and cheese, soy foods help your heart by slashing the amount of saturated fat that you eat.Why is saturated fat so bad for your heart? The liver uses saturated fat to make cholesterol, so eating foods with too much saturated fat can increase cholesterol levels, especially low-density lipoproteins (LDL)—the bad cholesterol. Saturated fats are usually found in animal products such as whole milk, cream, butter, and cheese, and meats, such as beef, lamb and pork. There are some plant-based saturated fats you should avoid too, notably palm kernel oil, coconut oil, and vegetable shortening.Not familiar with soy foods? The basics include tofu, soy nuts, soy flour, and enriched soymilk. Great-tasting, protein-rich meat alternatives include soy sausage, and breaded cutlets and nuggets that taste like chicken.The FDA recommends getting at least 25 grams of soy protein each day. Consuming 25 grams of soy protein daily lowers high cholesterol.
+" />
+
+
+        <ImageView
+            android:id="@+id/imageView28"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/soyabean" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="4.STEROLS"
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimaryDark"
+            android:textAlignment="center"
+            android:layout_marginLeft="50dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="  Sterols and stanols extracted from plants gum up the body’s ability to absorb cholesterol from food,” according to HEALTHbeat. You can find sterols and stanols in an increasing amount of foods like margarine, granola and chocolate. Check food labels to see if they contain these helpful plant substances." />
+
+
+        <ImageView
+            android:id="@+id/imageView29"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/sterol" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:text="5.GARLIC"
+            android:textColor="@color/colorPrimaryDark"
+            android:textAlignment="center"
+            android:layout_marginLeft="50dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text=" Garlic is an excellent substance to add in your diet to contain the cholesterol level. When you have increased levels of cholesterol, take as much garlic as possible in your diet. It will certainly reduce cholesterol level without causing any side effects. Although it is best to take it in raw form, it is equally efficacious in other forms like pickles.A study that used dried garlic powder over 8 to 12 weeks showed significant reductions in total cholesterol, LDL cholesterol, and triglycerides, but the effect didn’t last beyond six months of treatment, suggesting that garlic has only a short-term effect on cholesterol. If you choose to include more garlic in your diet, the worst outcome may be strong breath or an upset stomach." />
+
+
+        <ImageView
+            android:id="@+id/imageView30"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/garlic" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="6.CHOCOLATE "
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimaryDark"
+            android:textAlignment="center"
+            android:layout_marginLeft="50dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text=" Chocolate has over 300 naturally occurring chemicals within it. The most infamous chemicals include caffeine, sugar, and cocoa. However, one of the lesser-known chemicals found in chocolate are referred to as flavonoids. Flavonoids are the same chemicals found in red wine, which has also been found to lower LDL cholesterol (low density lipoproteins, “bad” cholesterol) levels as well as exert a protective effect against coronary heart disease. In addition to this, one-third of the fat content found in chocolate is in the form of stearic acid.Despite the benefits that chocolate may have, it shouldn’t be an excuse to consume it at every meal! Chocolate should be consumed only in moderation, preferably in accompaniment with a healthy diet. It should also not be used to replace the other healthy sources of flavonoids in your diet, such as grapes and blueberries." />
+
+
+        <ImageView
+            android:id="@+id/imageView31"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/img10" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="7. AVOCADOS"
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimaryDark"
+            android:textAlignment="center"
+            android:layout_marginLeft="50dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text=" Avocados are a great source of heart-healthy monounsaturated fat?a type of fat that may actually help to raise levels of HDL (“good”cholesterol) while lowering levels of LDL (“bad” cholesterol). And these delectable green orbs pack more of the cholesterol-smashing beta-sitosterol (a beneficial plant-based fat) than any other fruit. Beta-sitosterol reduces the amount of cholesterol absorbed from food. So the combination of beta-sitosterol and monounsaturated fat makes the avocado an excellent cholesterol buster.The American Heart Association recommends that you get up to 15%t of your daily calories from monounsaturated fats like those contained in avocados, but some heart experts recommend an even greater percentage. (In an 1,800-calorie diet, 15% translates into 30 grams per day.) FYI: A whole avocado has about 300 calories and 30g fat." />
+
+
+        <ImageView
+            android:id="@+id/imageView32"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/img20" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="8. MARGARINE"
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimaryDark"
+            android:textAlignment="center"
+            android:layout_marginLeft="50dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text=" Two margarines are proven to help lower your cholesterol numbers: Take Control and Benecol. They do so by blocking the absorption of the cholesterol contained in your food and bile.Take Control margarine is made with plant sterols that are proven to lower both total and LDL cholesterol by up to 14%. The plant stanols in Benecol margarine work the same way. Both the National Cholesterol Education Program and the American Heart Association recommend these margarines.In studies, three servings a day of Benecol helped drop total blood cholesterol by an average of 10% and LDL cholesterol by 14%. Take Control helped drop total cholesterol an average of 6 to 8 percent and LDL by 7 to 10% with one to two servings a day. Check labels for serving size." />
+
+
+        <ImageView
+            android:id="@+id/imageView33"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/margarine" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="9. TEA"
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimaryDark"
+            android:textAlignment="center"
+            android:layout_marginLeft="50dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="Tea, whether it’s iced or hot, delivers a blast of antioxidant compounds. Studies prove that tea helps to keep blood vessels relaxed and prevent blood clots. Flavonoids, the major antioxidants in tea, have been shown to prevent the oxidation of LDL cholesterol that leads to plaque formation on artery walls. These powerful antioxidants may even reduce cholesterol and even lower blood pressure.A cup of hot tea actually contains more antioxidants than a serving of any fruit or vegetable. Both green and black teas have high antioxidant levels. Enjoy at least one cup of tea every day."/>
+
+        <ImageView
+            android:id="@+id/imageView34"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/tea" />
+
+
+    </LinearLayout>
+
+
+
+
+</ScrollView>

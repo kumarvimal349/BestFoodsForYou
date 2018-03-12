@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.vimal.me.a9bestfoodsforyou.Main6Activity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:text="1.दलिया"
+            android:textAlignment="center"
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_marginLeft="10dp"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:textSize="25sp"
+            android:layout_weight="1"
+            android:text=" दलिया जई चोकर और उच्च फाइबर खाद्य पदार्थ: कई वर्षों से, कई शोध अध्ययनों ने कोलेस्ट्रॉल के स्तर को कम करने में दलिया के लाभों को साबित किया है। यू.एस. फूड एंड ड्रग एडमिनिस्ट्रेशन को भी आश्वस्त है: ओटमील, शोध के निष्कर्षों की आशाजनक वजह से अपने लेबल पर स्वस्थ भेदों को दिलाने वाला पहला आहार था। एलडीएल कोलेस्ट्रॉल (खराब कोलेस्ट्रॉल) के स्तर को कम करने में दलिया सबसे प्रभावी साबित होते हैं। वयस्कों में पढ़ाई के अनुसार, कुछ मामलों में एलडीएल कोलेस्ट्रॉल को 10 प्रतिशत कम किया जा सकता है। इन अध्ययनों में, कहीं भी 40 से 60 ग्राम के बीच - या लगभग एक कटोरा- ओटमैल का प्रति दिन प्रत्येक विषय से भस्म हो जाता है दलिया का लाभ कम करने वाले कोलेस्ट्रॉल भी खुराक पर निर्भर है। यही है, जितना अधिक दलिया आप खाते हैं, उतना ही आपके कोलेस्ट्रॉल कम होंगे। " />
+
+
+        <ImageView
+            android:id="@+id/imageView26"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/oatmeal" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="2. जैतून का तेल"
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimaryDark"
+            android:textAlignment="center"
+            android:layout_marginLeft="50dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text=" ऑलिव ऑयल लंबे समय से भूमध्यसागरीय देशों में खाना पकाने और मसाला दोनों के लिए लोकप्रिय रहा है। इन दिनों, हालांकि, यह अमेरिका में फिर से खोज रहा है। भूमध्यसागरीय देशों में रहने वाले लोगों के बीच हृदय रोग की कम आवृत्ति, अधिक औद्योगिक देशों के समान जीवनशैली के बावजूद, हमें अपने आहार पर अधिक बारीकी से देखती हैं। दुनिया के उस हिस्से में रहने वाले लोगों द्वारा जैतून का तेल का भारी इस्तेमाल होता है अपने आहार में मोनोअनसचुरेटेड वसा के उच्च स्तर जैतून का तेल ओलिक एसिड में समृद्ध है, आहार में पाए जाने वाले सबसे आम मोनोअनसैचुरेटेड फैटी एसिड। कई अध्ययनों से संकेत मिलता है कि मोनोअनसैचुरेटेड वसा आहार में संतृप्त वसा के लिए प्रतिस्थापित किए जाने पर कुल रक्त कोलेस्ट्रॉल और एलडीएल कोलेस्ट्रॉल को कम करने में पॉलीअनसैचुरेटेड वसा के रूप में प्रभावी है। इसके अलावा, मोनोअनसैचुरेटेड वसा फायदेमंद एचडीएल कोलेस्ट्रोल को कम करने या पॉलीअनसेचुरेटेड वसा के विपरीत ट्राइग्लिसराइड्स नहीं बढ़ाता है, जो उच्च मात्रा में होता है, एचडीएल कोलेस्ट्रॉल को कम कर सकता है। खाद्य एवं औषधि प्रशासन जैतून के तेल के निर्माताओं को यह दावा करने की अनुमति देता है कि सीमित नहीं, लेकिन ठोस सबूत बताते हैं कि रोजाना जैतून का तेल के दो चम्मच खाने से कोरोनरी हृदय रोग का खतरा जैविक तेल में मोनोअनसैचुरेटेड वसा के कारण कम हो सकता है। "/>
+
+        <ImageView
+            android:id="@+id/imageView27"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/img13" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="3. सोयाबीन"
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimaryDark"
+            android:textAlignment="center"
+            android:layout_marginLeft="50dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="संतृप्त वसा को कम करना एक सबसे महत्वपूर्ण आहार परिवर्तन है जो आप रक्त कोलेस्ट्रॉल को कम कर सकते हैं। मांस और पनीर के लिए प्रतिस्थापन के रूप में इस्तेमाल किया जाता है, सोया खाद्य पदार्थ आपके दिल में संतृप्त वसा की मात्रा को कम करके अपने दिल को मदद करते हैं। आपके हृदय के लिए संतृप्त वसा इतनी खराब क्यों है? लिवर कोलेस्ट्रॉल बनाने के लिए संतृप्त वसा का प्रयोग होता है, इसलिए बहुत अधिक संतृप्त वसा वाले खाद्य पदार्थों को खाने से कोलेस्ट्रॉल का स्तर बढ़ सकता है, खासकर कम घनत्व वाले लिपोप्रोटीन (एलडीएल) -बच्चे कोलेस्ट्रॉल। संतृप्त वसा आमतौर पर पशु उत्पादों जैसे कि पूरे दूध, क्रीम, मक्खन, और पनीर और मांस जैसे बीफ़, मेमने और पोर्क में पाए जाते हैं। कुछ पौधे-आधारित संतृप्त वसा भी हैं जिन्हें आप से भी बचना चाहिए, खासकर पाम कर्नेल तेल, नारियल का तेल, और सब्जी छोटा। सोया खाद्य पदार्थ से परिचित नहीं है? मूल बातें में टोफू, सोया पागल, सोया आटा और समृद्ध सोया मिल्क शामिल है। महान-चखने वाले, प्रोटीन युक्त मांस के विकल्प में सोया सॉसेज, और ब्रेड कटलेट और सोने की डली जैसे चिकन का स्वाद होता है। एफडीए प्रत्येक दिन कम से कम 25 ग्राम सोया प्रोटीन प्राप्त करने की सिफारिश करता है। 25 ग्राम सोया प्रोटीन लेने से दैनिक उच्च कोलेस्ट्रॉल कम होता है।" />
+
+
+        <ImageView
+            android:id="@+id/imageView28"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/soyabean" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="4.स्टेरोल्स"
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimaryDark"
+            android:textAlignment="center"
+            android:layout_marginLeft="50dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="स्वास्थ्य से कोलेस्ट्रॉल को अवशोषित करने के लिए शरीर की क्षमता पर पौधों की गम से निकाले जाने वाले स्टेरोल और स्टैनोल, हेल्थबीट के मुताबिक आप मार्जरीन, ग्रैनोला और चॉकलेट जैसे खाद्य पदार्थों की बढ़ती मात्रा में स्टीरोल और स्टैनोल पा सकते हैं भोजन के लेबलों को देखने के लिए देखें कि क्या इन उपयोगी पौधे पदार्थ होते हैं। " />
+
+        <ImageView
+            android:id="@+id/imageView29"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/sterol" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:text="5.लहसुन"
+            android:textColor="@color/colorPrimaryDark"
+            android:textAlignment="center"
+            android:layout_marginLeft="50dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text=" लहसुन को कोलेस्ट्रॉल के स्तर को नियंत्रित करने के लिए अपने आहार में जोड़ने के लिए एक उत्कृष्ट पदार्थ है। जब आपने कोलेस्ट्रॉल के स्तर में वृद्धि की है, तो अपने आहार में जितना संभव हो उतना लहसुन लें। किसी भी दुष्प्रभाव के बिना निश्चित रूप से कोलेस्ट्रॉल का स्तर कम होगा हालांकि इसे कच्चे रूप में लेने के लिए सबसे अच्छा है, यह अचार जैसे अन्य रूपों में उतना ही प्रभावी होता है। जो अध्ययन में 8 से 12 हफ्तों तक सूखे लहसुन पाउडर का उपयोग किया जाता है, वह कुल कोलेस्ट्रॉल, एलडीएल कोलेस्ट्रॉल, और ट्रायग्लिसराइड्स में महत्वपूर्ण कमी दिखाता है, लेकिन प्रभाव इलाज के छह महीने से अधिक नहीं है, यह सुझाव देते हुए कि लहसुन को कोलेस्ट्रॉल पर केवल एक अल्पकालिक प्रभाव है यदि आप अपने आहार में अधिक लहसुन को शामिल करना चुनते हैं, तो सबसे खराब परिणाम सांस या परेशान पेट हो सकता है। "/>
+
+        <ImageView
+            android:id="@+id/imageView30"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/garlic" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="6.चॉकलेट "
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimaryDark"
+            android:textAlignment="center"
+            android:layout_marginLeft="50dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text=" चॉकलेट के भीतर 300 से अधिक स्वाभाविक रूप से होने वाले रसायनिक होते हैं। सबसे कुख्यात रसायन कैफीन, चीनी, और कोको शामिल हैं हालांकि, चॉकलेट में पाए जाने वाले कम-ज्ञात रसायनों में से एक को फ्लेवोनोइड कहा जाता है। लाल वाइन में पाए जाने वाले फ्लेवोनोइड एक ही रसायन होते हैं, जो एलडीएल कोलेस्ट्रॉल (कम घनत्व वाले लिपोप्रोटीन, खराब कोलेस्ट्रॉल) के स्तरों के साथ-साथ कोरोनरी हृदय रोग के खिलाफ सुरक्षात्मक प्रभाव डालते हैं। इसके अतिरिक्त, चॉकलेट में पाया गया वसा वाला एक-तिहाई पदार्थ स्टैरिक एसिड के रूप में होता है। चॉकलेट में होने वाले लाभों के बावजूद, यह हर भोजन पर उपभोग करने का बहाना नहीं होना चाहिए! चॉकलेट का उपयोग केवल एक मात्रा में ही किया जाना चाहिए, खासकर स्वस्थ आहार से संगत में। यह आपके आहार में फ्लेवोनोइड के अन्य स्वस्थ स्रोतों को बदलने के लिए भी इस्तेमाल नहीं किया जाना चाहिए, जैसे कि अंगूर और ब्लूबेरी। "/>
+
+        <ImageView
+            android:id="@+id/imageView31"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/img10" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="7. AVOCADOS"
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimaryDark"
+            android:textAlignment="center"
+            android:layout_marginLeft="50dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text=" एवोकादोस दिल-स्वस्थ मोनोअनसैचुरेटेड वसा का एक बड़ा स्रोत है- एक प्रकार का वसा जो वास्तव में एलडीएल (खराब कोलेस्ट्रॉल) के स्तर को कम करते हुए एचडीएल (अच्छा कोलेस्ट्रॉल) के स्तर को बढ़ाने में मदद कर सकता है। और ये स्वादिष्ट हरे या बी को किसी भी अन्य फल की तुलना में अधिक कोलेस्ट्रॉल-स्मैशिंग बीटा-सैटेस्टेरोल (एक फायदेमंद पौधे-आधारित वसा) बीटा-सिटेस्टेरोल भोजन से अवशोषित कोलेस्ट्रॉल की मात्रा कम कर देता है। तो बीटा-सिस्टोस्टरोल और मोनोअनस्यूटेटेड वसा का संयोजन एवोकैडो को एक उत्कृष्ट कोलेस्ट्रॉल बस्टर बनाता है। अमेरिकन हार्ट एसोसिएशन की सिफारिश की जाती है कि आप अपने दैनिक कैलोरी का 15% टोन मोनोअनस्यूट्रेटेड वसा से प्राप्त होते हैं जैसे एवलोडोस में होते हैं, लेकिन कुछ हार्ट एक्सपर्ट्स का सुझाव है कि यहां तक ​​कि अधिक से अधिक प्रतिशत (1,800 कैलोरी आहार में, 15% प्रति दिन 30 ग्राम में अनुवाद करता है।) एफवाईआई: एक पूरे एवोकैडो में लगभग 300 कैलोरी और 30 ग्राम वसा है। "/>
+
+        <ImageView
+            android:id="@+id/imageView32"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/img20" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="8. MARGARINE"
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimaryDark"
+            android:textAlignment="center"
+            android:layout_marginLeft="50dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text=" आपके कोलेस्ट्रॉल नंबरों को कम करने में दो मार्जरीन साबित होते हैं: नियंत्रण और बेनेक्स लें। वे अपने भोजन और पित्त में निहित कोलेस्ट्रॉल के अवशोषण को अवरुद्ध करके ऐसा करते हैं। नियंत्रण मार्जरीन पौधे sterols के साथ किया जाता है जो कुल और एलडीएल कोलेस्ट्रॉल दोनों को 14% तक कम करने के लिए साबित होते हैं। बेनेक्स मार्जरीन में संयंत्र की स्टेनॉल उसी तरह काम करते हैं राष्ट्रीय कोलेस्ट्रॉल शिक्षा कार्यक्रम और अमेरिकन हार्ट एसोसिएशन दोनों ने ये मार्जरीन की सिफारिश की है। अध्ययन में, बेनेक्स के एक दिन में तीन सर्विंग्स ने कुल रक्त कोलेस्ट्रॉल को 10% और एलडीएल कोलेस्ट्रॉल का औसत 14% तक गिरा दिया। ले लो नियंत्रण में कुल कोलेस्ट्रॉल को 6 से 8 प्रतिशत की औसत और एलडीएल को 7 से 10% तक एक दिन में एक से दो सर्विंग्स देने में मदद मिली। आकार की सेवा के लिए लेबल की जांच करें। "/>
+
+        <ImageView
+            android:id="@+id/imageView33"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/margarine" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="9. चाय"
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimaryDark"
+            android:textAlignment="center"
+            android:layout_marginLeft="50dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="चाय, यह ठंडा या गर्म है, चाहे एंटीऑक्सीडेंट यौगिकों का एक विस्फोट उद्धार करता है अध्ययनों से पता चलता है कि चाय रक्त वाहिकाओं को आराम से रखने और खून के थक्के को रोकने में मदद करता है। चाय में प्रमुख एंटीऑक्सीडेंट फ्लैनोनोइड, एलडीएल कोलेस्ट्रॉल के ऑक्सीकरण को रोकने के लिए दिखाए गए हैं जो धमनी की दीवारों पर पट्टिका के गठन की ओर जाता है। ये शक्तिशाली एंटीऑक्सिडेंट कोलेस्ट्रॉल और ब्लड प्रेशर भी कम कर सकते हैं। गरम चाय का एक कप वास्तव में किसी भी फल या सब्जी की सेवा से अधिक एंटीऑक्सीडेंट होता है। हरी और काली चाय दोनों में उच्च एंटीऑक्सिडेंट का स्तर होता है। हर दिन कम से कम एक कप चाय का आनंद लें। " />
+
+
+        <ImageView
+            android:id="@+id/imageView34"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/tea" />
+
+
+    </LinearLayout>
+
+
+
+
+</ScrollView>

@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.vimal.me.a9bestfoodsforyou.Main7Activity">
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1.CINNAMON"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textColor="@color/colorAccent"
+            android:layout_marginLeft="10dp"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text=" One of cinnamon’s most impressive health benefits is its ability to improve blood glucose control. For vimal, just half a teaspoon of cinnamon a day has previously been shown to significantly reduce blood sugar levels, triglycerides, LDL (bad) cholesterol, and total cholesterol levels in people with type 2 diabetes.
+The more you can make use of natural therapies such as nutrition and exercise, the better your health will be. However, as helpful as supplements like cinnamon can be, they should not be misconstrued as cures. They are not substitutes for proper diet and lifestyle choices. You cannot properly address your diabetes if you still maintain a sedentary lifestyle and poor dietary choices — cinnamon supplementation or not! " />
+
+
+        <ImageView
+            android:id="@+id/imageView35"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/img14" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="2.BLUE BERRIES"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+            android:layout_marginLeft="10dp"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text=" The American Diabetes Association names blueberries as a “diabetes superfood” because blueberries are packed with nutrients, such as fiber and antioxidant vitamins, which provide several key benefits for dealing with diabetes. Blueberries may help your body process glucose for energy efficiently, both increasing its sensitivity to insulin and managing blood sugar, which can help you fight diabetes. A University of Michigan Cardiovascular Center study presented April 19, 2009 at the Experimental Biology convention in New Orleans notes that laboratory rats that were fed blueberries crushed into a powder showed improved insulin sensitivity, even when eating a high-fat diet along with the blueberries. Since most people with type 2 diabetes struggle with insulin resistance, greater sensitivity to insulin can help manage the disease." />
+
+
+        <ImageView
+            android:id="@+id/imageView36"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/img7" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="3.BEANS"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+            android:layout_marginLeft="10dp"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text=" Beans are a healthy choice for anyone—they’re low in fat, and offer protein and a variety of vitamins and minerals. But they may have extra benefits for people with diabetes because they’re high in soluble fiber. Beans can reduce your need for insulin medications. Dr. James Anderson, one of the early research pioneers on the health benefits of fiber, found that people with Type 1 diabetes were able to reduce their need for insulin by 38% just by eating beans. And for those with type 2 diabetes, eating beans not only reduced their need for insulin and other diabetic medications but, in some cases, almost eliminated the need for supplemental insulin." />
+
+
+        <ImageView
+            android:id="@+id/imageView37"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/img15" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="4. BROCCOLI"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+            android:layout_marginLeft="10dp"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text=" Eating broccoli could reverse the damage caused by diabetes to heart blood vessels, research suggests. A University of Warwick team believe the key is a compound found in the vegetable, called sulforaphane. It encourages production of enzymes which protect the blood vessels, and a reduction in high levels of molecules which cause significant cell damage. The Warwick team, whose work is reported in the journal Diabetes, tested the effects of sulforaphane on blood vessel cells damaged by high glucose levels (hyperglycaemia), which are associated with diabetes. They recorded a 73% reduction of molecules in the body called Reactive Oxygen Species (ROS)." />
+
+
+        <ImageView
+            android:id="@+id/imageView38"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/img16" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="5. CUCUMBERS"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textColor="@color/colorAccent"
+            android:layout_marginLeft="10dp"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text=" Beta cells within the pancreas produce the hormone insulin.Cucumber is found to get a hormone required by the beta cells in the insulin production. Moreover, the Glycemic Index of cucumbers is found to be zero. Why Cucumbers have not a glycemic index listed? Does this imply that they don’t raise blood sugar? No. It only denotes that under the “rules” for the meaning of the glycemic index, it is too hard to get an accurate number. It is because you’ll need to eat a very big amount of the food to get 50 grams of carbohydrate at a time to be tested. Usually, the lower the amount of carbohydrate in a vegetable and the more fiber it has, the less the rise in blood glucose will be." />
+
+
+        <ImageView
+            android:id="@+id/imageView39"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/img2" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="6. CABBAGE"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textColor="@color/colorAccent"
+            android:layout_marginLeft="10dp"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text=" Cabbages are very low in kilojoules and high in fiber, which translates to weight loss, a crucial factor in the fight against diabetes. Cabbages are a rich source of vitamin C, which reduces the risk of developing diabetes. Red cabbage is rich in anthocyanins, a natural pigment that boost insulin production. Fermented cabbage, also known as sauerkraut, have higher levels of anticancer compounds, due to fermentation. A word of caution: sauerkrauts are high in sodium." />
+
+
+        <ImageView
+            android:id="@+id/imageView40"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/img17" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="7.GRAPE-FRUITS"
+            android:textAlignment="center"
+            android:textColor="@color/colorAccent"
+            android:textStyle="bold"
+            android:layout_marginLeft="10dp"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="Sweet, juicy, and delicious, the ruby red grapefruit packs more antioxidant power and possibly more heart benefits than the white grapefruit. In a preliminary 30-day test of 57 people with heart disease, those eating one red grapefruit daily decreased their LDL (bad) cholesterol by 20 percent and decreased triglycerides by 17 percent. In contrast, those eating a white grapefruit reduced LDL by 10 percent with no significant change in triglycerides, compared with a group of people who didn’t eat the fruit. Include the vitamin C-rich grapefruit as a juice, in salads, or by itself. The only way the body can get vitamin C is through food, such as citrus fruits, or supplements." />
+
+
+        <ImageView
+            android:id="@+id/imageView41"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/grapefruit" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="8. FISH"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+            android:layout_marginLeft="10dp"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text=" Seafood lovers rejoice! Fish is a great addition to your meal plan, especially omega-3-rich fatty fish, such as salmon, trout, tuna, sardines, mackerel, and herring. Omega-3s, a type of polyunsaturated fat, which is healthful, can help lower triglycerides. According to Healing Gourmet: Eat to Beat Diabetes (McGraw-Hill, 2006), omega-3s can also help reduce inflammation, lower blood pressure, and reduce the risk of blood clots. Although fish is good for you and is considered a lean-meat substitute for its high protein, concerns have been raised about harmful mercury levels and other toxins found in some fish.￼
+" />
+
+
+        <ImageView
+            android:id="@+id/imageView42"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/img18" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="9. SPINACH"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+            android:layout_marginLeft="10dp"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="  Spinach, kale, chard, and other leafy greens are loaded with vitamins, such as folate; minerals, such as magnesium; a range of phytonutrients; and insoluble fiber — all of which have virtually no impact on your blood sugar level. Mark Hyman, MD, author of The Blood Sugar Solution (Little, Brown and Company), calls leafy greens “free foods,” which means you should eat as many of them as you can. Bonus: The fiber in leafy greens will slow absorption of any carbohydrates (e.g., potatoes or bread) they’re paired with, resulting in a healthier overall glycemic load." />
+
+        <ImageView
+            android:id="@+id/imageView43"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/img12" />
+
+
+    </LinearLayout>
+
+
+</ScrollView>
+

@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.vimal.me.a9bestfoodsforyou.Main5Activity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:text="1. ब्लू बैरीज़ "
+            android:textAlignment="center"
+            android:textColor="@color/colorAccent"
+            android:layout_marginLeft="10dp"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_weight="1"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text=" ब्लूबेरी हरे रंग की चाय और रेड वाइन की तरह हैं, जो एंटीऑक्सीडेंट्स में बेहद समृद्ध है, जो कि मुक्त कणिकों को लक्षित करते हैं जो त्वचा कोशिकाओं को नष्ट कर रहे हैं। ब्लूबेरी में पाए जाने वाले विरोधी ऑक्सीडेंट्स और फाइटोकेमिकल्स द्वारा डीएनए-हानिकारक मुक्त कणों को निष्क्रिय कर दिया जाता है, तो त्वचा अब तक छोटी दिखती है। वे फाइबर, विटामिन सी / ई, मैंगनीज, और राइबोफ्लाविन का भी एक उत्कृष्ट स्रोत हैं।
+"
+            android:textSize="25sp" />
+
+
+        <ImageView
+            android:id="@+id/imageView44"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/img7" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="2. कस्तूरी"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textColor="@color/colorAccent"
+            android:layout_marginLeft="10dp"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_weight="1"
+            android:layout_marginLeft="5dp"
+            android:textSize="25sp"
+            android:layout_marginRight="5dp"
+            android:text=" कस्तूरी आपकी खाल का सबसे अच्छा दोस्त हैं वे जस्ता से भरी हुई हैं जो मुंहासे, स्कैल्प स्थितियों, फोड़े, अल्सर और डायपर चकत्ते जैसे कई त्वचा रोगों को रोकने के लिए जाना जाता है। जिंक एक बड़ा  लाभ वाला खनिज है क्योंकि यह त्वचा को नवीनीकृत और मरम्मत करता है यह कोलेजन बनाने में भी मदद करता है, जो त्वचा में संरचनात्मक समर्थन प्रदान करता है। इससे प्रतिरक्षा को बढ़ाने में भी मदद मिलती है। " />
+
+
+        <ImageView
+            android:id="@+id/imageView45"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/oyster" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="3. टमाटर"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textColor="@color/colorAccent"
+            android:layout_marginLeft="10dp"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:text="टमाटर में एंटीऑक्सिडेंट लाइकोपिन कहा जाता है जो आपकी त्वचा को यूवी नुकसान से सनबर्न से बचाता है। पश्चिमी आहार में, लगभग 85% लाइकोपीन टमाटर से ही प्राप्त किया जाता है और टमाटर पेस्ट में उन्हें ढूंढने के लिए सबसे अच्छी जगह है। 23 महिलाओं पर एक अध्ययन किया गया, जिन्हें हर रोज 55 ग्राम टमाटर खाने के लिए कहा गया, 12 सप्ताह (उन्हें 16 मिलीग्राम लाइकोपीन देकर) उन्हें प्रयोगशाला में वापस लेने के बाद, यह पता चला कि प्राकृतिक त्वचा की सुरक्षा में 30% वृद्धि हुई है। "  android:textSize="25sp" />
+
+        <ImageView
+            android:id="@+id/imageView46"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/img8" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="4.कीवी"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+            android:layout_marginLeft="10dp"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_weight="1"
+            android:layout_marginLeft="5dp"
+            android:textSize="25sp"
+            android:layout_marginRight="5dp"
+            android:text="कीवी में बड़ी मात्रा में पानी में घुलनशील विटामिन सी होता है, जो कोलेजन उत्पन्न करने के लिए आवश्यक होता है। यह एक  का प्रोटीन है जो आपकी त्वचा को फर्म करने में मदद करता है। उम्र बढ़ने के साथ, कोलेजन का उत्पादन घटता है और त्वचा इसकी लोच खो देता है किवी भी विटामिन सी और ई से भरे हुए हैं, जो न केवल मुक्त कणों से लड़ते हैं बल्कि त्वचा को सुधारने और ठीक करने में भी मदद करते हैं। यही कारण है कि आप उन कीवी अर्क के साथ कई त्वचा देखभाल उत्पादों को देख सकते हैं। "/>
+
+
+        <ImageView
+            android:id="@+id/imageView47"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/img9" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="5. चॉकलेट"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+            android:layout_marginLeft="10dp"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:text="चॉकलेट फ्लेवोनोइड से भरा होता है जो कि यूवी किरणों से त्वचा की रक्षा करता है। जर्मन शोधकर्ताओं ने 24 महिलाओं को प्रति दिन विशेष अतिरिक्त फ्लेवोनोइड-समृद्ध कोको का आधा कप दिया, और 3 महीने बाद, महिलाओं की त्वचा गर्मी, चिकनी और कम खपटी, जब यूवी प्रकाश के संपर्क में आई। "   android:textSize="25sp" />
+
+        <ImageView
+            android:id="@+id/imageView48"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/img10" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="6.मीठे आलू"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+            android:layout_marginLeft="10dp"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:text="मीठे आलू पर स्नैकिंग आपकी त्वचा को साफ, चिकनी और युवा दिखने में रख सकता है। ऑरेंज-फ्लेशेड मिठाई आलू बीटा-कैरोटीन में समृद्ध है, एक एंटीऑक्सिडेंट जो आपके शरीर में विटामिन ए को कवर करता है, जो कि नए त्वचा कोशिकाओं के निर्माण और बूढ़े लोगों को बहाए जाने के लिए प्रभार में है। नए कोशिकाओं का एक नियमित बाढ़ आपकी त्वचा की सतह चिकनी, ताजा दिखने और परेशानी और क्षति के प्रतिरोधी रखता है। यह कोई संयोग नहीं है कि सौंदर्य उत्पादों, रेटिनोइक एसिड और रेटिनोल में सर्वोत्तम सामयिक स्वस्थ त्वचा सामग्री में से कुछ, विटामिन ए के डेरिवेटिव हैं "     android:textSize="25sp" />
+
+        <ImageView
+            android:id="@+id/imageView49"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/sweetpotato" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="7.स्ट्रॉबेरीज"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+            android:layout_marginLeft="10dp"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_weight="1"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text=" स्ट्रॉबेरी दुनिया के स्वास्थ्यप्रद खाद्य पदार्थों में से एक हैं सिर्फ एक कप विटामिन सी के लिए अनुशंसित दैनिक भत्ता (आरडीए) का 100 प्रतिशत से अधिक है, मैंगनीज के लिए 20 प्रतिशत आरडीए और फाइबर के लिए लगभग 15 प्रतिशत आरडीए। दूसरे शब्दों में, स्ट्रॉबेरी पोषक तत्वों में समृद्ध होती हैं, जो कि हमारी त्वचा को खाने के लिए प्यार करता है। अल्फा-हाइड्रॉक्सी एसिड की एक उच्च सामग्री के साथ, स्ट्रॉबेरी, मृत त्वचा कोशिकाओं को दूर करने में मदद करते हैं, नीचे नई युवा त्वचा का खुलासा करते हुए प्राकृतिक त्वचा के नवीकरण में वृद्धि करते हैं। स्ट्रॉबेरी में एलेगिक एसिड भी होता है, जो यूवी किरणों से त्वचा की रक्षा में मदद करता है। "      android:textSize="25sp" />
+
+        <ImageView
+            android:id="@+id/imageView50"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/img11" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="8.सूरजमुखी के बीज"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textColor="@color/colorAccent"
+            android:layout_marginLeft="10dp"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:text="सूरजमुखी के बीज आपकी त्वचा चमक बना देंगे कच्चे सूरजमुखी के बीज खाने से आप कई विटामिन और खनिजों का एक शक्तिशाली पंच दे सकते हैं। विटामिन और खनिज इन अद्भुत छोटे बीज में पाए जाते हैं; मैग्नीशियम, जस्ता, फास्फोरस, पोटेशियम, लोहा, कैल्शियम, तांबा, विटामिन बी 1, बी 2, बी 6, ए, ई, के, सी और फाइबर। विटामिन ई, विशेष रूप से, एक बहुत शक्तिशाली विटामिन है, जो उम्र बढ़ने की प्रक्रिया से लड़ने में मदद करने के लिए आवश्यक है। वे ओमेगा -6 आवश्यक फैटी एसिड में भी समृद्ध हैं।
+"
+            android:textSize="25sp" />
+
+        <ImageView
+            android:id="@+id/imageView51"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/sunflower" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:text="9.पालक"
+            android:textAlignment="center"
+            android:textColor="@color/colorAccent"
+            android:layout_marginLeft="10dp"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:text="पालक में विभिन्न पोषक तत्व होते हैं जो आपकी त्वचा के लिए अच्छे होते हैं पालक के सबसे उपयोगी विटामिन विटामिन ए, सी, ई, और के.पी पालक में विटामिन ए की उच्च मात्रा में भी एपिडर्मिस में उचित नमी बनाए रखने की अनुमति देकर स्वस्थ त्वचा को बढ़ावा देता है, इस प्रकार छालरोग, केराटाइनीकरण, मुँहासे और यहां तक ​​कि झुर्रियाँ भी लड़ती हैं। इंटरनेशनल जर्नल ऑफ कैंसर में प्रकाशित एक अध्ययन में पाया गया कि जो लोग सबसे ज्यादा मसाले खा चुके हैं, वे 11 साल से अधिक उम्र में कई त्वचा ट्यूमर विकसित कर चुके हैं, जो कि सबसे छोटी राशि खा चुके हैं। ऐसा होने की संभावना है क्योंकि पालक में फोलेट को डीएनए बनाए रखने और मरम्मत करने में मदद मिलती है, जिससे कैंसर-कोशिका वृद्धि की संभावना कम हो जाती है। "    android:textSize="25sp" />
+
+        <ImageView
+            android:id="@+id/imageView52"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/img12" />
+
+
+    </LinearLayout>
+
+</ScrollView>

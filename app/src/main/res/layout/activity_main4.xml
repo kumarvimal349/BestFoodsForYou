@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.vimal.me.a9bestfoodsforyou.Main4Activity">
+
+
+        <LinearLayout
+            android:layout_width="368dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="1.EGGS"
+                android:textStyle="bold"
+                android:textColor="@color/colorPrimary"
+                android:textAlignment="center"
+                android:layout_marginLeft="10dp"
+                android:textSize="40sp"/>
+
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_weight="0.98"
+                android:text="Eggs are the ultimate health food, because they contain a little bit of almost every nutrient you need.
+A large egg contains 77 calories, as well as high-quality protein and fat. It also contains many vitamins and minerals.
+Eggs are a great source of choline. Choline is essential for many processes in the body, including brain development and health .
+A dietary survey in the US showed that over 90% of people consumed less than the recommended amount of choline .
+Low choline intake during pregnancy may increase the risk of neural tube defects and possibly lead to decreased brain function .
+A single whole egg contains roughly 113 mg of choline, which is about 25% of the recommended daily intake for pregnant women (450 mg) . "
+                android:textSize="25sp"/>
+
+
+            <ImageView
+                android:id="@+id/imageView8"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/img19"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="2.GREEN TEA "
+                android:textStyle="bold"
+                android:textColor="@color/colorPrimary"
+                android:textAlignment="center"
+                android:layout_marginLeft="50dp"
+                android:textSize="40sp"/>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+
+                android:textSize="20sp"
+                android:text="Tea, whether it’s iced or hot, delivers a blast of antioxidant compounds. Studies prove that tea helps to keep blood vessels relaxed and prevent blood clots. Flavonoids, the major antioxidants in tea, have been shown to prevent the oxidation of LDL cholesterol that leads to plaque formation on artery walls. These powerful antioxidants may even reduce cholesterol and even lower blood pressure.A cup of hot tea actually contains more antioxidants than a serving of any fruit or vegetable. Both green and black teas have high antioxidant levels. Enjoy at least one cup of tea every day." />
+
+
+            <ImageView
+                android:id="@+id/imageView9"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:scaleType="fitXY"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/tea" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="3.WINE "
+                android:textStyle="bold"
+                android:textColor="@color/colorPrimary"
+                android:textAlignment="center"
+                android:layout_marginLeft="50dp"
+                android:textSize="40sp"/>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:textSize="20sp"
+                android:text="Grape skin contains resveratrol which is a well-known antioxidant that stops fat storage.
+            A glass of wine can also increase your metabolic rate for up to 90 minutes.
+            A new Spanish study suggests that drinking about 9 ounces of Merlot or a low-alcohol red wine changed
+            the mix of good and bad bacteria typically found in the colon in ways that can benefit your health.
+             A balanced combination of these bacteria helps to digest food better and more efficiently. " />
+
+
+            <ImageView
+                android:id="@+id/imageView10"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:scaleType="fitXY"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/wine" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="4.CINNAMON "
+                android:textStyle="bold"
+                android:textColor="@color/colorPrimary"
+                android:textAlignment="center"
+                android:layout_marginLeft="50dp"
+                android:textSize="40sp"/>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:textSize="20sp"
+                android:text=" One of cinnamon’s most impressive health benefits is its ability to improve blood glucose control. For vimal, just half a teaspoon of cinnamon a day has previously been shown to significantly reduce blood sugar levels, triglycerides, LDL (bad) cholesterol, and total cholesterol levels in people with type 2 diabetes.
+The more you can make use of natural therapies such as nutrition and exercise, the better your health will be. However, as helpful as supplements like cinnamon can be, they should not be misconstrued as cures. They are not substitutes for proper diet and lifestyle choices. You cannot properly address your diabetes if you still maintain a sedentary lifestyle and poor dietary choices — cinnamon supplementation or not!"/>
+
+            <ImageView
+                android:id="@+id/imageView11"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:scaleType="fitXY"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/img14" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textStyle="bold"
+                android:text="5.GRAPE-FRUITS "
+                android:textColor="@color/colorPrimary"
+                android:textAlignment="center"
+                android:layout_marginLeft="50dp"
+                android:textSize="40sp"/>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:textSize="20sp"
+                android:text="Sweet, juicy, and delicious, the ruby red grapefruit packs more antioxidant power and possibly more heart benefits than the white grapefruit. In a preliminary 30-day test of 57 people with heart disease, those eating one red grapefruit daily decreased their LDL (bad) cholesterol by 20 percent and decreased triglycerides by 17 percent. In contrast, those eating a white grapefruit reduced LDL by 10 percent with no significant change in triglycerides, compared with a group of people who didn’t eat the fruit. Include the vitamin C-rich grapefruit as a juice, in salads, or by itself. The only way the body can get vitamin C is through food, such as citrus fruits, or supplements." />
+
+
+            <ImageView
+                android:id="@+id/imageView12"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:scaleType="fitXY"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/grapefruit" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textStyle="bold"
+                android:text="6.COFFEE"
+                android:textColor="@color/colorPrimary"
+                android:textAlignment="center"
+                android:layout_marginLeft="50dp"
+                android:textSize="40sp"/>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_marginTop="5dp"
+                android:textSize="20sp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:text="Two cups of coffee can cut post-workout muscle pain by up to 48%.
+A cup of brewed coffee represents a contribution of up to 1.8 grams of fiber of the recommended intake of 20-38 grams.
+Those who consumed 6 or more cups per day had a 22% lower risk of diabetes. From the Archives of Internal Medicine (link). A recent review of research conducted by Harvard’s Dr. Frank Hu showed that the risk of type II diabetes decreases by 9% for each daily cup of coffee consumed. Decaf coffee decreased risk by 6% per cup.
+A 10-year study of 86,000 female nurses shows a reduced risk of suicide in the coffee drinkers. From the Archives of Internal Medicine (link). Another study conducted by the Harvard School of Public Health found that women who drink 4 or more cups of coffee were 20% less likely to suffer from depression" />
+
+
+            <ImageView
+                android:id="@+id/imageView13"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:scaleType="fitXY"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/coffee" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="7.BLACK-BEANS"
+                android:textStyle="bold"
+                android:textColor="@color/colorPrimary"
+                android:textAlignment="center"
+                android:layout_marginLeft="50dp"
+                android:textSize="40sp"/>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:textSize="20sp"
+                android:text="Black Beans are a healthy choice for anyone—they’re low in fat, and offer protein and a variety of vitamins and minerals. But they may have extra benefits for people with diabetes because they’re high in soluble fiber. Beans can reduce your need for insulin medications. Dr. James Anderson, one of the early research pioneers on the health benefits of fiber, found that people with Type 1 diabetes were able to reduce their need for insulin by 38% just by eating beans. And for those with type 2 diabetes, eating beans not only reduced their need for insulin and other diabetic medications but, in some cases, almost eliminated the need for supplemental insulin.
+" />
+
+
+            <ImageView
+                android:id="@+id/imageView14"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:scaleType="fitXY"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/blackbean" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textStyle="bold"
+                android:text="8.APPLES "
+                android:textColor="@color/colorPrimary"
+                android:textAlignment="center"
+                android:layout_marginLeft="50dp"
+                android:textSize="40sp"/>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:textSize="20sp"
+                android:text="Apples are extremely rich in important antioxidants, flavanoids, and dietary fiber. The phytonutrients and antioxidants in apples may help reduce the risk of developing cancer, hypertension, diabetes, and heart disease.
+        Apples deserve to be called nutritional powerhouses . They contain the following important nutrients:
+        Vitamin C - a powerful natural antioxidant capable of blocking some of the damage caused by free radicals, as well as boosting the body's resistance against infectious agents, according to the University of Maryland Medical Center.1
+        B-complex vitamins (riboflavin, thiamin, and vitamin B-6) - these vitamins are key in maintaining red blood cells and the nervous system in good health."/>
+
+
+            <ImageView
+                android:id="@+id/imageView24"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:scaleType="fitXY"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/img4" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="9.BROCCOLI "
+                android:textStyle="bold"
+                android:textColor="@color/colorPrimary"
+                android:textAlignment="center"
+                android:layout_marginLeft="50dp"
+                android:textSize="40sp"/>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_marginTop="5dp"
+                android:textSize="20sp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:text="  Eating broccoli could reverse the damage caused by diabetes to heart blood vessels, research suggests. A University of Warwick team believe the key is a compound found in the vegetable, called sulforaphane. It encourages production of enzymes which protect the blood vessels, and a reduction in high levels of molecules which cause significant cell damage. The Warwick team, whose work is reported in the journal Diabetes, tested the effects of sulforaphane on blood vessel cells damaged by high glucose levels (hyperglycaemia), which are associated with diabetes. They recorded a 73% reduction of molecules in the body called Reactive Oxygen Species (ROS)." />
+
+            <ImageView
+                android:id="@+id/imageView25"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:scaleType="fitXY"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/img16" />
+
+        </LinearLayout>
+
+
+    </ScrollView>
+

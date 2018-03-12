@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.vimal.me.a9bestfoodsforyou.Main2Activity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textColor="@color/colorAccent"
+            android:layout_marginLeft="10dp"
+            android:textSize="40sp"
+            android:text="1.CHOCOLATE "/>
+
+
+
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:text="chocolate is loaded with nutrients that can positively affect your health.
+Made from the seed of the cocoa tree, it is one of the best sources of antioxidants on the planet.Studies show that dark chocolate (not the sugary crap) can improve health and lower the risk of heart disease.If you buy quality dark chocolate with a high cocoa content, then it is actually quite nutritious.It contains a decent amount of soluble fiber and is loaded with minerals.A 100 gram bar of dark chocolate with 70-85% cocoa contains :
+
+ 11% grams of fiber.
+67% of the RDA for Iron.
+58% of the RDA for Magnesium.
+89% of the RDA for Copper.
+98% of the RDA for Manganese.
+The flavanols in dark chocolate can stimulate the endothelium, the lining of arteries, to produce Nitric Oxide (NO), which is a gas .
+One of the functions of NO is to send signals to the arteries to relax, which lowers resistance to blood flow and therefore reduces blood pressure.
+There are many controlled trials showing that cocoa and dark chocolate can improve blood flow and lower blood pressure, but the effects are usually mild .
+However, there is also one study in people with elevated blood pressure that showed no effect, so take all this with a grain of salt.
+ "
+            android:textSize="25sp" />
+
+
+        <ImageView
+            android:id="@+id/imageView7"
+            android:layout_width="match_parent"
+            android:scaleType="fitXY"
+            android:layout_height="200dp"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/img10" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:text="   2. MILK"
+            android:textColor="@color/colorAccent"
+            android:textAlignment="center"
+            android:layout_marginLeft="50dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:textSize="20sp"
+            android:text="Pregnant woman with glass of milk
+During pregnancy, you need to consume extra protein and calcium to meet the needs of the growing fetus .
+Dairy products contain two types of high quality protein: casein and whey. Dairy is the best dietary source of calcium, and provides high amounts of phosphorus, various B-vitamins, magnesium and zinc.
+Yogurt, especially Greek yogurt, is particularly beneficial for pregnant women .
+It contains more calcium than any other dairy product. Some varieties also contain probiotic bacteria, which support digestive health .
+People who are lactose intolerant may also be able to tolerate yogurt, especially probiotic yogurt .
+Taking probiotic supplements during pregnancy may reduce the risk of complications such as preeclampsia, gestational diabetes, vaginal infections and allergies .
+" />
+
+
+        <ImageView
+            android:id="@+id/imageView8"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/images" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="3. LEGUMES"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+            android:textAlignment="center"
+            android:layout_marginLeft="50dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:text="This group of food includes lentils, peas, beans, chickpeas, soybeans and peanuts.
+Legumes are excellent plant-based sources of fiber, protein, iron, folate (B9) and calcium, all of which the body needs more of during pregnancy.
+Folate is one of the B-vitamins (B9). It is very important for the health of the mother and fetus, especially during the first trimester.
+However, most pregnant women are not consuming nearly enough folate .
+This has been linked with an increased risk of neural tube defects and low birth weight. Insufficient folate intake may also cause the child to be more prone to infections and disease later in life .
+Legumes contain high amounts of folate. One cup of lentils, chickpeas or black beans may provide from 65–90% of the RDA .
+Furthermore, legumes are generally very high in fiber. Some varieties are also high in iron, magnesium and potassium.
+" />
+
+
+        <ImageView
+            android:id="@+id/imageView9"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/legumes" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="4. SWEET POTATOES"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+            android:textAlignment="center"
+            android:layout_marginLeft="50dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text=" Snacking on sweet potatoes can keep your skin clear, smooth and young-looking. Orange-fleshed sweet potatoes are rich in beta-carotene, an antioxidant that coverts to vitamin A in your body, which is in charge at producing new skin cells and shedding old ones. A regular influx of new cells keeps the surface of your skin smooth, fresh-looking and resistant to irritants and damage. It’s no coincidence that some of the best topical healthy-skin ingredients in beauty products, retinoic acid and retinol, are derivatives of vitamin A.
+" />
+
+
+        <ImageView
+            android:id="@+id/imageView10"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/sweetpotato" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="5. EGGS"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+            android:textAlignment="center"
+            android:layout_marginLeft="50dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="Eggs are the ultimate health food, because they contain a little bit of almost every nutrient you need.
+A large egg contains 77 calories, as well as high-quality protein and fat. It also contains many vitamins and minerals.
+Eggs are a great source of choline. Choline is essential for many processes in the body, including brain development and health .
+A dietary survey in the US showed that over 90% of people consumed less than the recommended amount of choline .
+Low choline intake during pregnancy may increase the risk of neural tube defects and possibly lead to decreased brain function .
+A single whole egg contains roughly 113 mg of choline, which is about 25% of the recommended daily intake for pregnant women (450 mg) .
+
+" />
+
+
+        <ImageView
+            android:id="@+id/imageView12"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/img19" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="6.BROCCOLI"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+            android:textAlignment="center"
+            android:layout_marginLeft="50dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="Broccoli and dark, green vegetables, such as kale and spinach, contain many of the nutrients that pregnant women need.These include fiber, vitamin C, vitamin K, vitamin A, calcium, iron, folate and potassium.Furthermore, broccoli and leafy greens are rich in antioxidants. They also contain plant compounds that benefit the immune system and digestion .
+Due to their high fiber content, these vegetables may also help prevent constipation. This is a very common problem among pregnant women .Consuming green, leafy vegetables has also been linked with a reduced risk of low birth weight .
+" />
+
+
+        <ImageView
+            android:id="@+id/imageView11"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_weight="1"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/img16" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="8.LEAN MEAT"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+            android:textAlignment="center"
+            android:layout_marginLeft="50dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:textSize="20sp"
+            android:text="Beef, pork and chicken are excellent sources of high-quality protein.
+Furthermore, beef and pork are also rich in iron, choline and other B-vitamins — all of which are needed in higher amounts during pregnancy.
+Iron is an essential mineral that is used by red blood cells as a part of hemoglobin. It is important for delivering oxygen to all cells in the body.
+Pregnant women need more iron, since their blood volume is increasing. This is particularly important during the third trimester.
+Low levels of iron during early and mid-pregnancy may cause iron deficiency anemia, which doubles the risk of premature delivery and low birth weight (45).
+It may be hard to cover iron needs with diet alone, especially since many pregnant women develop an aversion to meat .
+However, for those who can, eating red meat regularly may help increase the amount of iron acquired from the diet.
+Eating foods that are rich in vitamin C, such as oranges or bell peppers, may also help increase absorption of iron from meals.
+" />
+
+
+        <ImageView
+            android:id="@+id/imageView13"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_weight="1"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/img3" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="1"
+            android:text="9. WHOLE GRAINS"
+            android:textAlignment="center"
+            android:textColor="@color/colorAccent"
+            android:textSize="40sp"
+            android:textStyle="bold"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:textSize="20sp"
+            android:text="Eating whole grains may help meet the increased calorie requirements that come with pregnancy, especially during the second and third trimesters.
+As opposed to refined grains, whole grains are packed with fiber, vitamins and plant compounds.
+Oats and quinoa also contain a fair amount of protein, which is important during pregnancy.
+Additionally, whole grains are generally rich in B-vitamins, fiber and magnesium. All of these are frequently lacking in the diets of pregnant women .
+" />
+
+
+        <ImageView
+            android:id="@+id/imageView14"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/wholegrain" />
+
+
+
+    </LinearLayout>
+</ScrollView>
+
+
+
+

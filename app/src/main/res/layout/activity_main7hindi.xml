@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.vimal.me.a9bestfoodsforyou.Main7Activity">
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1.दालचीनी"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textColor="@color/colorAccent"
+            android:layout_marginLeft="10dp"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text=" दालचीनी के सबसे प्रभावशाली स्वास्थ्य लाभों में से एक में रक्त शर्करा नियंत्रण को बेहतर बनाने की क्षमता है। उदाहरण के लिए, प्रति दिन दालचीनी का सिर्फ एक आधा चम्मच पहले रक्त शर्करा के स्तर, ट्राइग्लिसराइड्स, एलडीएल (खराब) कोलेस्ट्रॉल और टाइप 2 मधुमेह वाले लोगों में कुल कोलेस्ट्रॉल के स्तर को काफी कम करने के लिए दिखाया गया है।जितना अधिक आप पोषण और व्यायाम जैसे प्राकृतिक चिकित्सा का उपयोग कर सकते हैं, उतना ही बेहतर होगा कि आपका स्वास्थ्य बेहतर होगा। हालांकि, दालचीनी जैसी खुराक के रूप में उपयोगी हो सकते हैं, उन्हें उपचार के रूप में गलत तरीके से नहीं समझा जाना चाहिए। वे उचित आहार और जीवन शैली विकल्पों के लिए विकल्प नहीं हैं आप अपनी मधुमेह को सही ढंग से नहीं संबोधित कर सकते हैं यदि आप अभी भी एक स्थिर जीवन शैली और गरीब आहार विकल्पों को बनाए रखते हैं - दालचीनी पूरक या नहीं! "/>
+
+        <ImageView
+            android:id="@+id/imageView35"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/img14" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="2.ब्लू बैरीज़"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+            android:layout_marginLeft="10dp"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text=" अमेरिकन डायबिटीज एसोसिएशन ब्लूबेरी को डायबिटीज सुपरफूड के रूप में नामांकित करता है क्योंकि ब्लूबेरी को फाइबर और एंटीऑक्सिडेंट विटामिन जैसे पोषक तत्वों के साथ पैक किया जाता है, जो मधुमेह से निपटने के लिए कई महत्वपूर्ण लाभ प्रदान करते हैं। ब्लूबेरी ऊर्जा के लिए आपके शरीर की प्रक्रिया ग्लूकोज को कुशलता से मदद कर सकती है, दोनों में इंसुलिन की संवेदनशीलता बढ़ रही है और रक्त शर्करा के प्रबंधन में मदद मिल सकती है, जिससे आप मधुमेह से लड़ सकते हैं। मिशिगन कार्डियोवास्कुलर केंद्र अध्ययन के एक विश्वविद्यालय ने 1 9, 200 9 को न्यू ऑरलियन्स में प्रायोगिक जीवविज्ञान सम्मेलन में यह नोट किया कि ब्लूबेरी के साथ उच्च वसायुक्त भोजन खाने के दौरान, जब भी प्रयोगशाला चूहों को पाउडर में कुचल दिया गया था, वे पाउडर में कुचल पाए थे, इनसुलिन संवेदनशीलता में सुधार हुआ था। चूंकि ज्यादातर इंसुलिन प्रतिरोध के साथ प्रकार 2 मधुमेह संघर्ष वाले लोग इंसुलिन की अधिक संवेदनशीलता से बीमारी का प्रबंधन कर सकते हैं। "/>
+
+        <ImageView
+            android:id="@+id/imageView36"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/img7" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="3.फलियां"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+            android:layout_marginLeft="10dp"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="सेम किसी के लिए एक स्वस्थ विकल्प हैं-वे वसा में कम हैं, और प्रोटीन और विभिन्न विटामिन और खनिजों की पेशकश करते हैं। लेकिन उनके पास मधुमेह वाले लोगों के लिए अतिरिक्त लाभ हो सकते हैं क्योंकि वे घुलनशील फाइबर में उच्च हैं। बीन्स इनसुलिन दवाओं की आपकी ज़रूरतों को कम कर सकते हैं फाइबर के स्वास्थ्य लाभ पर प्रारंभिक शोध अग्रदूतों में से एक, डॉ। जेम्स एंडरसन ने पाया कि टाइप 1 मधुमेह वाले लोग केवल बीन्स खाने से इंसुलिन की उनकी जरूरत को 38% कम करने में सक्षम थे। और टाइप 2 मधुमेह वाले लोगों के लिए, बीन्स खाने से इंसुलिन और अन्य मधुमेह दवाओं की उनकी ज़रूरत कम ही नहीं हुई, लेकिन कुछ मामलों में, पूरक इंसुलिन की आवश्यकता को समाप्त कर दिया। "/>
+
+
+        <ImageView
+            android:id="@+id/imageView37"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/img15" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="4. ब्रोकोली"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+            android:layout_marginLeft="10dp"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="ब्रोकोली खाने से मधुमेह के कारण दिल के रक्त वाहिकाओं को नुकसान पहुंचा सकता है, अनुसंधान से पता चलता है वॉर्विक टीम के एक विश्वविद्यालय का मानना ​​है कि चावल एक सब्जी में पाया जाता है, जिसे सल्फोराफेन कहा जाता है। यह एंजाइमों के उत्पादन को प्रोत्साहित करता है जो रक्त वाहिकाओं की रक्षा करते हैं, और उच्च स्तर के अणुओं में कमी जिससे महत्वपूर्ण सेल क्षति होती है। जर्नल डायबिटीज के जर्नल टीम में काम करने वाले वॉरविक टीम ने उच्च ग्लूकोज के स्तर (हाइपरग्लेसीमिया) से क्षतिग्रस्त रक्त वाहिका कोशिकाओं पर सल्फोराफेन के प्रभाव का परीक्षण किया, जो मधुमेह से जुड़े हैं। उन्होंने रिएक्टिव ऑक्सीजन प्रजाति (आरओएस) नामक शरीर में अणुओं में 73% की कमी दर्ज की। "/>
+
+        <ImageView
+            android:id="@+id/imageView38"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/img16" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="5. खीरे"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textColor="@color/colorAccent"
+            android:layout_marginLeft="10dp"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text=" अग्न्याशय के भीतर बीटा कोशिकाओं में हार्मोन इंसुलिन उत्पन्न होता है। ककड़ी इंसुलिन उत्पादन में बीटा कोशिकाओं द्वारा आवश्यक हार्मोन प्राप्त करने के लिए पाया जाता है। इसके अलावा, खीरे का ग्लाइसेमिक सूचकांक शून्य पाया जाता है। क्यों खीरे एक glycemic सूचकांक सूचीबद्ध नहीं है? क्या इसका अर्थ यह है कि वे रक्त शर्करा नहीं बढ़ाते हैं? नहीं, यह केवल यह सूचित करता है कि ग्लाइसेमिक इंडेक्स के अर्थ के लिए नियम के तहत, सटीक संख्या प्राप्त करना बहुत कठिन है। इसका कारण यह है कि आपको परीक्षण के लिए एक समय में 50 ग्राम कार्बोहाइड्रेट प्राप्त करने के लिए बहुत बड़ी मात्रा में खाना खाने की आवश्यकता होगी। आमतौर पर, एक सब्जी में कार्बोहाइड्रेट की मात्रा कम होती है और इसमें अधिक फाइबर होता है, रक्त ग्लूकोज में वृद्धि कम होगी। "/>
+
+        <ImageView
+            android:id="@+id/imageView39"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/img2" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="6. गोभी"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textColor="@color/colorAccent"
+            android:layout_marginLeft="10dp"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text=" किगोज़ल्स में कोबोज़ बहुत कम है और फाइबर में अधिक है, जो कि वजन घटाने के लिए, मधुमेह के खिलाफ लड़ाई में एक महत्वपूर्ण कारक है। गोभी विटामिन सी का एक समृद्ध स्रोत है, जिससे मधुमेह के विकास के जोखिम को कम करता है। लाल गोभी एंथोकेनिन में समृद्ध है, एक प्राकृतिक वर्णक है जो इंसुलिन उत्पादन को बढ़ावा देता है। किण्वित गोभी, जिसे साराक्रेट के रूप में भी जाना जाता है, किण्वन के कारण, उच्च रक्तचाप के यौगिकों के उच्च स्तर होते हैं। सावधानी के एक शब्द: सॉरेकराटस सोडियम में उच्च है। "/>
+
+        <ImageView
+            android:id="@+id/imageView40"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/img17" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="7.अंगूर फल"
+            android:textAlignment="center"
+            android:textColor="@color/colorAccent"
+            android:textStyle="bold"
+            android:layout_marginLeft="10dp"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="मीठे, रसदार और स्वादिष्ट, रूबी लाल अंगूर अधिक एंटीऑक्सीडेंट शक्ति और संभवतः सफेद अंगूर की तुलना में अधिक हृदय लाभ पैक। हृदय रोग के साथ 57 लोगों की प्रारंभिक 30-दिवसीय परीक्षा में, जो एक लाल अंगूर खाने वाले रोजाना अपने एलडीएल (खराब) कोलेस्ट्रॉल को 20 प्रतिशत कम करते हैं और ट्राइग्लिसराइड्स 17 प्रतिशत कम कर देते हैं। इसके विपरीत, सफेद अंगूर खाने वाले लोग 10% से एलडीएल कम कर देते हैं, ट्राइग्लिसराइड्स में कोई महत्वपूर्ण बदलाव नहीं होता है, जो उस फल के खाने वाले लोगों के समूह के मुकाबले नहीं थे। एक रस के रूप में, सलाद में, या स्वयं के द्वारा विटामिन सी-समृद्ध अंगूर को शामिल करें शरीर को विटामिन सी मिल सकता है एकमात्र तरीका भोजन के माध्यम से है, जैसे खट्टे फल, या पूरक " />
+
+        <ImageView
+            android:id="@+id/imageView41"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/grapefruit" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="8. मछली"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+            android:layout_marginLeft="10dp"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text=" समुद्री भोजन प्रेमियों को आनन्दित! मछली अपने भोजन योजना के लिए एक बढ़िया अतिरिक्त है, विशेष रूप से ओमेगा 3-अमीर वसायुक्त मछली, जैसे सैल्मन, ट्राउट, ट्यूना, सरडाइन, मैकेरल, और हेरिंग ओमेगा -3 एस, एक प्रकार का पॉलीअनसेचुरेटेड वसा, जो स्वस्थ है, ट्राइग्लिसराइड्स को कम करने में मदद कर सकता है। हीलिंग पेटू के अनुसार: मधुमेह को मारो (मैकग्रा-हिल, 2006), ओमेगा -3 एस भी सूजन, कम रक्तचाप को कम करने और रक्त के थक्कों के जोखिम को कम करने में मदद कर सकता है। हालांकि मछली आपके लिए अच्छा है और इसकी उच्च प्रोटीन के लिए दुबला मांस का स्थान माना जाता है, लेकिन कुछ मछली में पाए जाने वाले हानिकारक पारा के स्तर और अन्य विषाक्त पदार्थों के बारे में चिंताओं को उठाया गया है।
+" />
+
+
+        <ImageView
+            android:id="@+id/imageView42"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/img18" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="9.पालक"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+            android:layout_marginLeft="10dp"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text=" पालक, काले, चर्ड, और अन्य पत्तेदार साग विटामिन से भरे जाते हैं, जैसे फोलेट; खनिज, जैसे कि मैग्नीशियम; फ़िएंट्रिएन्ट्स की एक श्रेणी; और अघुलनशील फाइबर - जिनमें से सभी का आपके रक्त शर्करा के स्तर पर लगभग कोई असर नहीं है। द ब्लड शुगर सॉल्यूशन (लिटिल, ब्राउन एंड कंपनी) के लेखक, मार्क हेमैन, पत्तेदार साग को मुफ्त खाद्य पदार्थ  हैं, जिसका अर्थ है कि आप उन में से जितनी खा सकते हैं उतना खाएं। बोनस: पत्तेदार सागों में फाइबर किसी भी कार्बोहाइड्रेट (जैसे, आलू या रोटी) के अवशोषण को धीमा कर देगा, जिनके साथ वे बनती हैं, जिसके परिणामस्वरूप एक स्वस्थ समग्र ग्लाइसेमिक लोड होता है। "/>
+
+        <ImageView
+            android:id="@+id/imageView43"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/img12" />
+
+
+    </LinearLayout>
+
+
+</ScrollView>
+

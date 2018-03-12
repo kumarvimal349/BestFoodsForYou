@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.vimal.me.a9bestfoodsforyou.Main3Activity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="1.अंडे"
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimaryDark"
+            android:textAlignment="center"
+            android:layout_marginLeft="50dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:textSize="20sp"
+            android:text="अंडे अंतिम स्वास्थ्य भोजन हैं, क्योंकि उनमें लगभग हर पोषक तत्व की आवश्यकता होती है।
+एक बड़े अंडा में 77 कैलोरी होते हैं, साथ ही साथ उच्च गुणवत्ता वाला प्रोटीन और वसा भी होता है। इसमें कई विटामिन और खनिज भी शामिल हैं
+अंडा कोलोन का एक बड़ा स्रोत है शरीर में कई प्रक्रियाओं के लिए, मस्तिष्क के विकास और स्वास्थ्य सहित, चोलिन आवश्यक है।
+अमेरिका में एक आहार सर्वेक्षण से पता चला है कि 90% से ज्यादा लोगों को क्रोन की सिफारिश की मात्रा से कम खपत होती है।
+गर्भावस्था के दौरान कम क्लोलीन का सेवन, न्यूरल ट्यूब दोषों के जोखिम को बढ़ा सकता है और संभावित मस्तिष्क समारोह में कमी कर सकता है।
+एक संपूर्ण अंडे में लगभग 113 मिलीग्राम क्लोिन होता है, जो कि गर्भवती महिलाओं (450 मिलीग्राम) के लिए सुझाए गए दैनिक सेवन का लगभग 25 प्रतिशत है। "/>
+
+        <ImageView
+            android:id="@+id/imageView15"
+            android:layout_width="match_parent"
+            android:scaleType="fitXY"
+            android:layout_height="200dp"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/img19"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="2.सोयाबीन"
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimaryDark"
+            android:textAlignment="center"
+            android:layout_marginLeft="40dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:textSize="20sp"
+            android:text="सोयाबीन गुणवत्ता प्रोटीन में उच्च हैं; पकाया हुआ सोयाबीन के 175 मिलीलीटर (¾ कप) में 75 ग्राम (125 मिलीलीटर (आधा कप) पके हुए मांस, चिकन या मछली के रूप में ज्यादा प्रोटीन होते हैं। मांस की तरह, सोयाबीन में आवश्यक सभी आवश्यक इमारत ब्लॉकों, या एमिनो एसिड होते हैं स्वास्थ्य के लिए।
+ सोया अन्य फलियां की तुलना में वसा में अधिक है, जो आम तौर पर लगभग वसा रहित होते हैं; हालांकि, यह मुख्य रूप से अच्छा वसा है (ओनोगा -3 फैटी एसिड सहित मोनोअनसस्यूटेटेड और पॉलीअनसेचुरेटेड वसा) सोया सहित सभी फलियां, कोई कोलेस्ट्रॉल नहीं है
+ सोया कैल्शियम और लोहे का खनिज स्रोत है:
+
+ @ कैल्शियम मजबूत हड्डियों और दाँतों को बनाता है और रखता है
+ @ आयरन को ऊतक और पेशी कोशिकाओं को ऑक्सीजन ले जाने के लिए प्रयोग किया जाता है।
+सोया में isoflavones भी शामिल हैं, जो एंटीऑक्सिडेंट हैं जिनके स्वास्थ्य लाभ हो सकते हैं।
+कनाडा के खाद्य गाइड सहित कई राष्ट्रीय आहार दिशानिर्देश, स्वस्थ आहार के हिस्से के रूप में सोया खाद्य पदार्थों की सिफारिश करते हैं।
+ स्वास्थ्य लाभों के लिए आवश्यक सोया की मात्रा के लिए अधिक शोध की आवश्यकता है; हालांकि, परंपरागत सोया खाद्य पदार्थों के दो से तीन सर्विंग्स को लाभकारी माना जाता है।" />
+
+
+        <ImageView
+            android:id="@+id/imageView16"
+            android:layout_width="match_parent"
+            android:scaleType="fitXY"
+            android:layout_height="200dp"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/soyabean"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:text="3.
+सैल्मन"
+            android:textColor="@color/colorPrimaryDark"
+            android:textAlignment="center"
+            android:layout_marginLeft="50dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="सलमन लंबी श्रृंखला ओमेगा -3 फैटी एसिड ईपीए और डीएए के सबसे अच्छे स्रोतों में से एक है।
+खेतों वाले सैल्मन के 3.5 औंस (एक्साइज) का हिस्सा 2.3 ग्राम लंबी-श्रृंखला ओमेगा -3 फैटी एसिड होता है जबकि जंगली सामन के समान हिस्से में 2.6 ग्राम होता है।
+अधिकांश अन्य वसा के विपरीत, ओमेगा -3 वसा को आवश्यक माना जाता है, जिसका अर्थ है कि आपको उन्हें अपने आहार से प्राप्त करना चाहिए क्योंकि आपके शरीर उन्हें नहीं बना सकते। यद्यपि ओमेगा -3 फैटी एसिड की कोई सिफारिश दैनिक खपत (आरडीआई) नहीं है, कई स्वास्थ्य संगठनों का सुझाव है कि स्वस्थ वयस्कों को कम से कम 250-500 मिलीग्राम संयुक्त ईपीए और डीएचए प्रतिदिन (3) मिलता है।
+        ईपीए और डीएचए को कई स्वास्थ्य लाभों का श्रेय दिया गया है, जैसे कि सूजन कम करना, रक्तचाप को कम करना, कैंसर के खतरे को कम करना और कोशिकाओं के कार्य में सुधार करना जो आपके धमनियों को रेखा देते हैं
+        16 नियंत्रित अध्ययनों के 2012 विश्लेषण में पाया गया कि प्रति दिन ओमेगा -3 फैटी एसिड का 0.45-4.5 ग्राम लेने से धमनी समारोह में महत्वपूर्ण सुधार हुआ। "/>
+        <ImageView
+            android:id="@+id/imageView17"
+            android:layout_width="match_parent"
+            android:scaleType="fitXY"
+            android:layout_height="200dp"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/img3"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:text="4.
+ब्लू बैरीज़"
+            android:textColor="@color/colorPrimaryDark"
+            android:textAlignment="center"
+            android:layout_marginLeft="50dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:text=" ब्लूबेरी दुनिया में सबसे अधिक पोषक तत्व-घने खाद्य पदार्थों में से एक हैं और इसमें बड़े स्तर और एंटीऑक्सिडेंट की एक विस्तृत श्रृंखला है। ब्लैकबेरी के ORAC स्कोर एक अविश्वसनीय 9, 621 है, जो इसे दुनिया के सर्वोच्च एंटीऑक्सिडेंट खाद्य पदार्थों में से एक बनाता है। ब्लूबेरी के सिर्फ एक कप का उपभोग निम्न पोषक तत्व प्रदान करता है:
+
+  resveratrol
+  गैलिक अम्ल
+  lutein
+  zeaxanthin
+  विटामिन के (36 प्रतिशत डीवी)
+  विटामिन सी (25 प्रतिशत डीवी)
+  मैंगनीज़ (25 प्रतिशत DV)
+  फाइबर (17 प्रतिशत डीवी)
+  क्योंकि वे फिनोल की ऐसी उच्च मात्रा में होते हैं, विशेष रूप से गैलिक एसिड, ब्लूबेरी न्यूरो-सुरक्षात्मक एजेंट  के रूप में जाना जाता है। ईरान के शोधकर्ताओं के मुताबिक, इसका मतलब है कि वे सचमुच हमारे अवशेषों, न्यूरोटॉक्सिसिटी और ऑक्सीडेटिव तनाव से रक्षा कर सकते हैं।
+        गैलिक एसिड में कुछ अन्य खाद्य पदार्थ उनके मस्तिष्क की शक्ति के लिए भी जाना जाता है। "/>
+
+        <ImageView
+            android:id="@+id/imageView18"
+            android:layout_width="match_parent"
+            android:scaleType="fitXY"
+            android:layout_height="200dp"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/img7"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:text="5.दही"
+            android:textColor="@color/colorPrimaryDark"
+            android:textAlignment="center"
+            android:layout_marginLeft="50dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:textSize="20sp"
+            android:text="
+इंटरनेशनल जर्नल ऑफ ऑबसीटीज़ द्वारा प्रकाशित एक अध्ययन से पता चलता है कि जो लोग अपने कैल्शियम से अधिकतर मधुमेह से अधिक प्राप्त करते हैं, उनके midsection के आसपास अधिक वजन कम होता है। Yogurts में पाया प्रोबायोटिक बैक्टीरिया आपके पाचन तंत्र स्वस्थ रखता है, जो कम ब्लोटिंग और कब्ज के लिए अनुवाद करता है, जो बदले में आपको बनाता है पेट की चापलूसी। एक दिन में 18 औंस लें और आप एक जींस का आकार छोड़ सकते हैं। जो लोग इतना खाए, इनके कुल कैलोरी में कटौती के साथ- 22 प्रतिशत अधिक वजन और 81 प्रतिशत अधिक पेट वसा, जो कि आहार से निकल गए थे टेनेसी विश्वविद्यालय से शोध "/>
+        <ImageView
+            android:id="@+id/imageView19"
+            android:layout_width="match_parent"
+            android:scaleType="fitXY"
+            android:layout_height="200dp"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/yogurt"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:text="6.
+बादाम "
+            android:textColor="@color/colorPrimaryDark"
+            android:textAlignment="center"
+            android:layout_marginLeft="50dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="
+बादाम एक सच्चे सुपरफ़ाद हैं। वे मांसपेशियों का निर्माण करते हैं, लालच को कम करते हैं, और मोटापा लड़ते हैं। अपने हाथों को छोटे बादामों (कम से कम 6) के साथ शुरू करें। वे अपने शरीर को वसा जलाने में आपकी मदद करेंगे और एक सपाट पेट के रास्ते में आपकी मदद करेंगे। यह स्वादिष्ट और बहुमुखी नट्स में प्रोटीन और फाइबर भरना होता है, न कि विटामिन ई, एक शक्तिशाली एंटीऑक्सिडेंट का उल्लेख करना। वे मैग्नीशियम का एक अच्छा स्रोत भी एक खनिज आपके शरीर को ऊर्जा उत्पन्न करने, मांसपेशियों के ऊतकों को बनाने और बनाए रखने और रक्त शर्करा को नियंत्रित करने के लिए आपके शरीर के पास होना चाहिए। (एक स्थिर रक्त शर्करा का स्तर उन लालचों को रोकने में मदद करता है जो ज़्यादा पेट और वजन बढ़ सकता है)।
+ " />
+
+
+        <ImageView
+            android:id="@+id/imageView20"
+            android:layout_width="match_parent"
+            android:scaleType="fitXY"
+            android:layout_height="200dp"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/img5" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:text="7.
+पालक"
+            android:textColor="@color/colorPrimaryDark"
+            android:textAlignment="center"
+            android:layout_marginLeft="50dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="
+पालक विटामिन और खनिजों (कैल्शियम, बीटाकोरोटीन, विटामिन सी और मैग्नीशियम) का एक बड़ा स्रोत है और केवल प्रति कप केवल 7 कैलोरी एक बहुत ही कम कैलोरी आहार है। कैल्शियम को मांसपेशियों को संपर्क करने में मदद करने के लिए जाना जाता है, इससे पहले कि यह एक महान पूर्व-काम भोजन । आप एक पूरी बैग खा सकते हैं और अधिकतर अपने दैनिक कैलोरी में सेंध लगा सकते हैं। तो इसे जो कुछ भी इसमें डाल दें। यदि आप इसे पालक में रख सकते हैं (और यह घृणित नहीं है) ओमेलेट, सलाद,
+ " />
+        <ImageView
+            android:id="@+id/imageView21"
+            android:layout_width="match_parent"
+            android:scaleType="fitXY"
+            android:layout_height="200dp"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/img12"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="8.
+पानी"
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimaryDark"
+            android:textAlignment="center"
+            android:layout_marginLeft="50dp"
+            android:textSize="40sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:textSize="20sp"
+            android:text="
+पानी वास्तव में एक भोजन नहीं है, लेकिन बहुत से पानी पीना बहुत जरूरी है। यह आपके शरीर को अपने चयापचय को बढ़ाने में मदद करेगा और यह आपके दैनिक कैलोरी सेवन को कम कर देगा। प्रति दिन शीतल पेय के आठ कप पीने से आपका शरीर 70 कैलोरी खर्च करेगा इससे अन्यथा अधिक होता है। इसके अलावा उच्च चीनी पेय के बजाय पीने के पानी से, आप प्रति दिन अतिरिक्त कैलोरी के हुंड्रेड्स को कटौती करेंगे।
+ " />
+
+
+        <ImageView
+            android:id="@+id/imageView22"
+            android:layout_width="match_parent"
+            android:scaleType="fitXY"
+            android:layout_height="200dp"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/water"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="9.QUINOA"
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimaryDark"
+            android:textAlignment="center"
+            android:layout_marginLeft="50dp"
+            android:textSize="40sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:textSize="20sp"
+            android:text="क्विनॉआ लोहा है लौह हमारे लाल रक्त कोशिकाओं को स्वस्थ रखने में मदद करता है और हीमोग्लोबिन गठन का आधार है। लौह एक कोशिका से दूसरे में ऑक्सीजन लेता है और हमारी संकुचन में सहायता के लिए हमारी मांसपेशियों को ऑक्सीजन प्रदान करता है। आयरन मस्तिष्क समारोह भी बढ़ाता है क्योंकि मस्तिष्क हमारे रक्त ऑक्सीजन का लगभग 20% तक ले जाता है
+ क्विनॉआ में लगभग अन्य रूप से अधिक फाइबर के रूप में अधिकतर अन्य अनाज शामिल हैं। फाइबर कब्ज को दूर करने के लिए सबसे अधिक जाना जाता है यह उच्च रक्तचाप और मधुमेह को कम करके हृदय रोग को रोकने में भी मदद करता है। फाइबर कोलेस्ट्रॉल और ग्लूकोज के स्तर को कम करता है, बवासीर के विकसित होने का खतरा कम हो सकता है और आप अपना वजन कम करने में मदद कर सकते हैं, क्योंकि यह अन्य खाद्य पदार्थों की तुलना में चबा करने के लिए अधिक समय लेता है क्योंकि इससे आप लंबे समय तक फुलर महसूस करते हैं और कम  घने का अर्थ है इसके भोजन के समान मात्रा के लिए कम कैलोरी है "/>
+        <ImageView
+            android:id="@+id/imageView23"
+            android:layout_width="match_parent"
+            android:scaleType="fitXY"
+            android:layout_height="200dp"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/qua"/>
+
+
+
+
+    </LinearLayout>
+</ScrollView>
+

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.vimal.me.a9bestfoodsforyou.MainActivity"
+    android:background="@drawable/img5">
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+
+        <Button
+            android:id="@+id/btn10"
+            android:layout_width="match_parent"
+            android:layout_height="59dp"
+            android:textSize="20dp"
+            android:background="#ff3300"
+            android:textStyle="bold"
+            android:text="BEST FOODS FOR
+                   [ PREGNANCY ]"
+
+            android:layout_marginTop="30dp"
+
+            android:layout_below="@+id/imageView3"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_toRightOf="@+id/imageView2"
+            android:layout_toEndOf="@+id/imageView2"/>
+
+
+        <ImageView
+
+            android:layout_width="120dp"
+            android:layout_height="59dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignTop="@+id/btn10"
+            app:srcCompat="@drawable/img1"
+            android:id="@+id/imageView2"/>
+
+
+
+        <Button
+            android:id="@+id/btn11"
+            android:layout_width="match_parent"
+            android:layout_height="59dp"
+            android:textSize="20dp"
+            android:background="#ffff00"
+            android:textStyle="bold"
+            android:text="BEST FOODS FOR
+   [ FLAT ABS ]"
+
+
+            android:layout_marginTop="48dp"
+            android:layout_below="@+id/btn10"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_toRightOf="@+id/imageView"
+            android:layout_toEndOf="@+id/imageView"/>
+
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="120dp"
+            android:layout_height="59dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignTop="@+id/btn11"
+            app:srcCompat="@drawable/img18"
+            />
+
+
+
+        <Button
+            android:id="@+id/btn12"
+            android:layout_width="match_parent"
+            android:layout_height="59dp"
+            android:textSize="20dp"
+            android:background="#00cc00"
+            android:textStyle="bold"
+            android:text="BEST FOODS FOR
+                   [ WEIGHT LOSS ]"
+
+            android:layout_marginTop="54dp"
+            android:layout_below="@+id/btn11"
+            android:layout_toRightOf="@+id/imageView4"
+            android:layout_toEndOf="@+id/imageView4"/>
+
+
+        <ImageView
+
+            android:layout_width="120dp"
+            android:layout_height="59dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignTop="@+id/btn12"
+            app:srcCompat="@drawable/img16"
+            android:id="@+id/imageView4"/>
+
+
+
+        <Button
+            android:id="@+id/btn13"
+            android:layout_width="match_parent"
+            android:layout_height="59dp"
+            android:textSize="20dp"
+            android:background="#6699ff"
+            android:textStyle="bold"
+            android:text="BEST FOODS FOR
+                     [ HEALTHY SKIN ]"
+
+            android:layout_marginTop="50dp"
+
+            android:layout_below="@+id/btn12"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_toRightOf="@+id/imageView5"
+            android:layout_toEndOf="@+id/imageView5"/>
+
+
+        <ImageView
+
+            android:layout_width="120dp"
+            android:layout_height="59dp"
+            app:srcCompat="@drawable/img5"
+            android:id="@+id/imageView5"
+            android:layout_alignTop="@+id/btn13"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"/>
+
+
+
+        <Button
+            android:id="@+id/btn14"
+            android:layout_width="match_parent"
+            android:layout_height="59dp"
+            android:textSize="20dp"
+            android:background="#cc00ff"
+            android:textStyle="bold"
+            android:text="BEST FOODS FOR
+                     [ CHOLESTROL ]"
+
+
+            android:layout_marginTop="38dp"
+            android:layout_below="@+id/btn13"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_toRightOf="@+id/imageView6"
+            android:layout_toEndOf="@+id/imageView6"/>
+
+
+        <ImageView
+
+            android:layout_width="120dp"
+            android:layout_height="59dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignTop="@+id/btn14"
+            app:srcCompat="@drawable/img15"
+            android:id="@+id/imageView6"/>
+
+
+
+        <Button
+            android:id="@+id/btn15"
+            android:layout_width="match_parent"
+            android:layout_height="59dp"
+            android:textSize="20dp"
+            android:background="#00ffff"
+            android:textStyle="bold"
+            android:text="BEST FOODS FOR
+             [ DIABETES ]   "
+
+
+            android:layout_marginTop="52dp"
+            android:layout_below="@+id/btn14"
+            android:layout_toRightOf="@+id/imageView18"
+            android:layout_toEndOf="@+id/imageView18"/>
+
+
+        <ImageView
+
+            android:layout_width="120dp"
+            android:layout_height="59dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignTop="@+id/btn15"
+            app:srcCompat="@drawable/img4"
+            android:id="@+id/imageView18"/>
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:scaleType="fitXY"
+            android:background="@drawable/driedfruit"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"/>
+
+        <ImageView
+
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:scaleType="fitXY"
+            android:background="@drawable/driedfruit"
+            android:layout_marginTop="61dp"
+            android:layout_below="@+id/btn15"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"/>
+
+
+
+    </RelativeLayout>
+
+</ScrollView>

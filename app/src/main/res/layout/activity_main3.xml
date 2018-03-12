@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.vimal.me.a9bestfoodsforyou.Main3Activity">
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="1.EGGS"
+                android:textStyle="bold"
+                android:textColor="@color/colorPrimaryDark"
+                android:textAlignment="center"
+                android:layout_marginLeft="50dp"
+                android:textSize="40sp"/>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:textSize="20sp"
+                android:text="Eggs are the ultimate health food, because they contain a little bit of almost every nutrient you need.
+A large egg contains 77 calories, as well as high-quality protein and fat. It also contains many vitamins and minerals.
+Eggs are a great source of choline. Choline is essential for many processes in the body, including brain development and health .
+A dietary survey in the US showed that over 90% of people consumed less than the recommended amount of choline .
+Low choline intake during pregnancy may increase the risk of neural tube defects and possibly lead to decreased brain function .
+A single whole egg contains roughly 113 mg of choline, which is about 25 percent of the recommended daily intake for pregnant women (450 mg) . " />
+
+
+            <ImageView
+                android:id="@+id/imageView15"
+                android:layout_width="match_parent"
+                android:scaleType="fitXY"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/img19"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="2.SOYABEANS"
+                android:textStyle="bold"
+                android:textColor="@color/colorPrimaryDark"
+                android:textAlignment="center"
+                android:layout_marginLeft="40dp"
+                android:textSize="40sp"/>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:textSize="20sp"
+                android:text="Soybeans are high in quality protein; 175 ml (¾ cup) of cooked soybeans contains as much protein as 75 g (125 ml (½ cup) of cooked meat, chicken or fish. Like meat, soybeans contain all the essential building blocks, or amino acids, in amounts we need for health.
+ Soy is higher in fat than other legumes, which are generally almost fat-free; however, it’s mainly good fat (monounsaturated and polyunsaturated fats, including omega-3 fatty acids). All legumes, including soy, have no cholesterol.
+ Soy is an excellent source of the minerals calcium and iron:
+
+ @  Calcium builds and maintains strong bones and teeth.
+ @  Iron is used to carry oxygen to tissue and muscle cells.
+Soy also contains isoflavones, which are antioxidants that may have health benefits.
+Several national dietary guidelines, including Canada’s Food Guide, recommend soy foods as part of a healthy diet.
+ The amount of soy needed for health benefits requires more research; however, two to three servings of traditional soy foods a day is thought to be beneficial.
+
+ " />
+
+
+            <ImageView
+                android:id="@+id/imageView16"
+                android:layout_width="match_parent"
+                android:scaleType="fitXY"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/soyabean"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textStyle="bold"
+                android:text="3.SALMON"
+                android:textColor="@color/colorPrimaryDark"
+                android:textAlignment="center"
+                android:layout_marginLeft="50dp"
+                android:textSize="40sp"/>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_marginTop="5dp"
+                android:textSize="20sp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:text="Salmon is one of the best sources of the long-chain omega-3 fatty acids EPA and DHA.
+A 3.5-ounce (100-gram) portion of farmed salmon has 2.3 grams of long-chain omega-3 fatty acids, while the same portion of wild salmon contains 2.6 grams .
+Unlike most other fats, omega-3 fats are considered essential, meaning you must get them from your diet since your body can't create them. Although there is no recommended daily intake (RDI) of omega-3 fatty acids, many health organizations recommend that healthy adults get a minimum of 250–500 mg of combined EPA and DHA per day (3).
+        EPA and DHA have been credited with several health benefits, such as decreasing inflammation, lowering blood pressure, reducing the risk of cancer and improving the function of the cells that line your arteries .
+        A 2012 analysis of 16 controlled studies found that taking 0.45–4.5 grams of omega-3 fatty acids per day led to significant improvements in arterial function "/>
+
+            <ImageView
+                android:id="@+id/imageView17"
+                android:layout_width="match_parent"
+                android:scaleType="fitXY"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/img3"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textStyle="bold"
+                android:text="4.BLUE-BERRIES"
+                android:textColor="@color/colorPrimaryDark"
+                android:textAlignment="center"
+                android:layout_marginLeft="50dp"
+                android:textSize="40sp"/>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:textSize="20sp"
+                android:text=" Blueberries are one of the most nutrient-dense foods in the world and contain large levels and a broad range of antioxidants. The ORAC score of blueberries is an incredible 9,621, which makes it one of the highest antioxidant foods in the world. Consuming just one cup of blueberries provides the following nutrients:
+
+  Resveratrol
+  Gallic acid
+  Lutein
+  Zeaxanthin
+  Vitamin K (36 percent DV)
+  Vitamin C (25 percent DV)
+  Manganese (25 percent DV)
+  Fiber (17 percent DV)
+  Because they contain such a high amount of phenols, particularly gallic acid, blueberries are known as “neuro-protective agents.” According to researchers from Iran, this means that they can literally protect our brains from degeneration, neurotoxicity and oxidative stress.
+Some other foods high in gallic acid are known for their brain power as well." />
+
+
+            <ImageView
+                android:id="@+id/imageView18"
+                android:layout_width="match_parent"
+                android:scaleType="fitXY"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/img7"/>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textStyle="bold"
+                android:text="5.YOGURT"
+                android:textColor="@color/colorPrimaryDark"
+                android:textAlignment="center"
+                android:layout_marginLeft="50dp"
+                android:textSize="40sp"/>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:textSize="20sp"
+                android:text="A study published by International Journal of Obesity suggests that people who get their calcium mostly from yogurts lose more weight around their midsection .The probiotic bacteria found in yogurts keep your digestive system healthy ,which translates to less bloating and constipation ,which in turn makes you belly flatter .Eat 18 ounces a day and you can drop a jeans size .People who ate that much -In conjunction with cutting their total calories -lost 22 percent more weight and 81 percent more belly fat than dieters who skipped the snack ,according to research from the University of Tennessee. " />
+
+
+            <ImageView
+                android:id="@+id/imageView19"
+                android:layout_width="match_parent"
+                android:scaleType="fitXY"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/yogurt"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textStyle="bold"
+                android:text="6.ALMONDS "
+                android:textColor="@color/colorPrimaryDark"
+                android:textAlignment="center"
+                android:layout_marginLeft="50dp"
+                android:textSize="40sp"/>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_marginTop="5dp"
+                android:textSize="20sp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:text="Almonds are a true superf-ood .they build muscle ,reduce cravings ,and fight obesity .Start your mrnings with a handful of  small almonds (at least 6). They will help your body to burn fat and help you on your way to a flat stomach .These delicious and versatile nuts contain filling protein and fiber ,not to mention vitamin E, a powerful antioxidants .They are also a good  source of magnesium a mineral your body must have in order to produce energy ,build and maintain muscle tissue , and regulate blood sugar . (A  stable blood-sugar level helps prevent cravings that can lead to overeating and weight gain).
+ " />
+
+
+            <ImageView
+                android:id="@+id/imageView20"
+                android:layout_width="match_parent"
+                android:scaleType="fitXY"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/img5" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textStyle="bold"
+                android:text="7.SPINACH"
+                android:textColor="@color/colorPrimaryDark"
+                android:textAlignment="center"
+                android:layout_marginLeft="50dp"
+                android:textSize="40sp"/>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_marginTop="5dp"
+                android:textSize="20sp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:text="Spinach is a great source of vitamins and minerals (calcium ,betacarotene,vitamin C and magnesium) and with only 7 calories per cup it is a very low-calorie food.Calcium is known to help muscles to contact so its  a great pre-worked  food . You could eat a whole bag and most even put a dent in your daily calories .So put it in whatever .Omelets,salads ,smoothies ,wraps ,if you can put spinach in it (and not have it be disgusting ) do it
+ " />
+            <ImageView
+                android:id="@+id/imageView21"
+                android:layout_width="match_parent"
+                android:scaleType="fitXY"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/img12"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="8.WATER"
+                android:textStyle="bold"
+                android:textColor="@color/colorPrimaryDark"
+                android:textAlignment="center"
+                android:layout_marginLeft="50dp"
+                android:textSize="40sp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:textSize="20sp"
+                android:text="Water is actually not a food however,it is very important to drink lots of water .It will help your body to increase its metabolism and it will reduce your daily caloric intake .By drinking eight cups of chilledwater per day your body will spend 70 calories more than it would otherwise .Also by drinking water instead of high-sugar drinks , you will cut hundreads of extra calories per day.
+ " />
+
+
+            <ImageView
+                android:id="@+id/imageView22"
+                android:layout_width="match_parent"
+                android:scaleType="fitXY"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/water"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="9.QUINOA"
+                android:textStyle="bold"
+                android:textColor="@color/colorPrimaryDark"
+                android:textAlignment="center"
+                android:layout_marginLeft="50dp"
+                android:textSize="40sp"/>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:textSize="20sp"
+                android:text=" Quinoa contains Iron. Iron helps keep our red blood cells healthy and is the basis of hemoglobin formation. Iron carries oxygen from one cell to another and supplies oxygen to our muscles to aid in their contraction. Iron also increases brain function because the brain takes in about 20% of our blood oxygen
+ Quinoa contains almost twice as much fiber as most other grains. Fiber is most widely known to relieve constipation. It also helps to prevent heart disease by reducing high blood pressure and diabetes. Fiber lowers cholesterol and glucose levels, may lower your risk of developing hemorrhoids and may help you to lose weight as it takes a longer time to chew than does other foods because it makes you feel fuller for longer and is less “energy dense” which means it has fewer calories for the same volume of food. " />
+
+            <ImageView
+                android:id="@+id/imageView23"
+                android:layout_width="match_parent"
+                android:scaleType="fitXY"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/qua"/>
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
